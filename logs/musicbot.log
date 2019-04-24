@@ -1,0 +1,776 @@
+[465.917348862] 2019-04-23 22:13:11,698 - INFO - launcher: Starting sanity checks
+[473.912000656] 2019-04-23 22:13:11,706 - INFO - launcher: Checking for Python 3.5+
+[474.910736084] 2019-04-23 22:13:11,707 - INFO - launcher: Checking console encoding
+[474.910736084] 2019-04-23 22:13:11,707 - INFO - launcher: Setting console encoding to UTF-8
+[479.908227921] 2019-04-23 22:13:11,712 - INFO - launcher: Ensuring we're in the right environment
+[496.898174286] 2019-04-23 22:13:11,729 - INFO - launcher: Adding local bins/ folder to path
+[3373.675584793] 2019-04-23 22:13:14,606 - INFO - launcher: Required checks passed.
+[3422.155141830] 2019-04-23 22:13:14,654 - INFO - launcher: Optional checks passed.
+[3424.153327942] 2019-04-23 22:13:14,656 - INFO - launcher: Moving old musicbot log
+
+######################### PRE-RUN SANITY CHECKS PASSED #########################
+
+[7.7075235843658447] 2019-04-23 22:13:18,939 - WARNING - musicbot.config | In config.py::MainThread(61656), line 116 in run_checks: i18n file does not exist. Trying to fallback to config/i18n/en.json.
+[7.7095246315002441] 2019-04-23 22:13:18,941 - INFO - musicbot.config | In config.py::MainThread(61656), line 127 in run_checks: Using i18n: config/i18n/en.json
+[7.7205169200897217] 2019-04-23 22:13:18,952 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 226 in _setup_logging: Set logging level to INFO
+[7.7295129299163818] 2019-04-23 22:13:18,961 - DEBUG - musicbot.json | In json.py::MainThread(61656), line 8 in __init__: Init JSON obj with config/i18n/en.json
+[7.8214547634124756] 2019-04-23 22:13:19,053 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 91 in __init__: Starting MusicBot 1.9.8_4
+[7.8224537372589111] 2019-04-23 22:13:19,054 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 97 in __init__: Loaded autoplaylist with 2116 entries
+[10.7641637325286865] 2019-04-23 22:13:21,996 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 922 in on_ready: Connection established, ready to go.
+[10.7651631832122803] 2019-04-23 22:13:21,997 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 340 in _cache_app_info: Caching app info
+[10.8740956783294678] 2019-04-23 22:13:22,106 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 744 in _scheck_ensure_env: Ensuring data folders exist
+[10.8760955333709717] 2019-04-23 22:13:22,108 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 760 in _scheck_server_permissions: Checking server permissions
+[10.8760955333709717] 2019-04-23 22:13:22,108 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 764 in _scheck_autoplaylist: Auditing autoplaylist
+[10.8760955333709717] 2019-04-23 22:13:22,108 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 768 in _scheck_configs: Validating config
+[10.8770942687988281] 2019-04-23 22:13:22,109 - DEBUG - musicbot.config | In config.py::MainThread(61656), line 217 in async_validate: Validating options...
+[10.8770942687988281] 2019-04-23 22:13:22,109 - DEBUG - musicbot.config | In config.py::MainThread(61656), line 231 in async_validate: Acquired owner id via API
+[10.8770942687988281] 2019-04-23 22:13:22,109 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 771 in _scheck_configs: Validating permissions config
+[10.8770942687988281] 2019-04-23 22:13:22,109 - DEBUG - musicbot.permissions | In permissions.py::MainThread(61656), line 94 in async_validate: Validating permissions...
+[10.8770942687988281] 2019-04-23 22:13:22,109 - DEBUG - musicbot.permissions | In permissions.py::MainThread(61656), line 98 in async_validate: Fixing automatic owner group
+[10.8770942687988281] 2019-04-23 22:13:22,109 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 939 in on_ready: Connected: 570277320376713227/X-Bot#5162
+[10.8790931701660156] 2019-04-23 22:13:22,111 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 947 in on_ready: Owner:     520844929442775070/BioH4zardX#7547
+
+[10.8790931701660156] 2019-04-23 22:13:22,111 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 950 in on_ready: Guild List:
+[10.8800921440124512] 2019-04-23 22:13:22,112 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 954 in on_ready:  - X-Scripts Server
+[10.8810925483703613] 2019-04-23 22:13:22,113 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 1010 in on_ready: Not bound to any text channels
+[10.8810925483703613] 2019-04-23 22:13:22,113 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 1036 in on_ready: Not autojoining any voice channels
+[10.8830895423889160] 2019-04-23 22:13:22,115 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 264 in _join_startup_channels: Found resumable voice channel X-Scripts Server/owner call
+[10.8840878009796143] 2019-04-23 22:13:22,116 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 270 in _join_startup_channels: Found owner in "owner call"
+[10.8840878009796143] 2019-04-23 22:13:22,116 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 279 in _join_startup_channels: Attempting to join X-Scripts Server/owner call
+[12.5121853351593018] 2019-04-23 22:13:23,744 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 295 in _join_startup_channels: Joined X-Scripts Server/owner call
+[12.5141856670379639] 2019-04-23 22:13:23,746 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 511 in on_player_stop: Running on_player_stop
+[30.7122452259063721] 2019-04-23 22:13:41,944 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;help  all
+[51.4935827255249023] 2019-04-23 22:14:02,725 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;option
+[73.1262044906616211] 2019-04-23 22:14:24,358 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;option  utoplaylist y
+[74.8831470012664795] 2019-04-23 22:14:26,115 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 2777 in on_message: Error in option: CommandError: The parameters provided were invalid.
+Traceback (most recent call last):
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 2755, in on_message
+    response = await handler(**handler_kwargs)
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 137, in wrapper
+    return await func(self, *args, **kwargs)
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 2189, in cmd_option
+    raise exceptions.CommandError(self.str.get('cmd-option-invalid-param' ,'The parameters provided were invalid.'))
+musicbot.exceptions.CommandError: The parameters provided were invalid.
+[80.2268915176391602] 2019-04-23 22:14:31,459 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 828 in safe_delete_message: Cannot delete message ";option  utoplaylist y", message not found
+[89.2135004997253418] 2019-04-23 22:14:40,445 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;option autoplaylist y
+[89.2864549160003662] 2019-04-23 22:14:40,518 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 515 in on_player_finished_playing: Running on_player_finished_playing
+[89.2864549160003662] 2019-04-23 22:14:40,518 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 530 in on_player_finished_playing: No content in current autoplaylist. Filling with new music...
+[93.6040215492248535] 2019-04-23 22:14:44,836 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=MRHojNbDEUg": ERROR: MRHojNbDEUg: "token" parameter not in video info for unknown reason
+[93.6060204505920410] 2019-04-23 22:14:44,838 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=MRHojNbDEUg
+[93.6090176105499268] 2019-04-23 22:14:44,841 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[96.1585550308227539] 2019-04-23 22:14:47,390 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=usXhiWE2Uc0": ERROR: usXhiWE2Uc0: "token" parameter not in video info for unknown reason
+[96.1645524501800537] 2019-04-23 22:14:47,396 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=usXhiWE2Uc0
+[96.1675515174865723] 2019-04-23 22:14:47,399 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[98.6445417404174805] 2019-04-23 22:14:49,876 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=2rxWPEdYCnI": ERROR: 2rxWPEdYCnI: "token" parameter not in video info for unknown reason
+[98.6475417613983154] 2019-04-23 22:14:49,879 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=2rxWPEdYCnI
+[98.6815216541290283] 2019-04-23 22:14:49,913 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[101.0116837024688721] 2019-04-23 22:14:52,244 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=2MferjKXc1c": ERROR: 2MferjKXc1c: "token" parameter not in video info for unknown reason
+[101.0196812152862549] 2019-04-23 22:14:52,252 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=2MferjKXc1c
+[101.0216782093048096] 2019-04-23 22:14:52,254 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[103.7485263347625732] 2019-04-23 22:14:54,980 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=_ILsdcs__ME": ERROR: _ILsdcs__ME: "token" parameter not in video info for unknown reason
+[103.7855041027069092] 2019-04-23 22:14:55,017 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=_ILsdcs__ME
+[103.7885017395019531] 2019-04-23 22:14:55,020 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[104.7150435447692871] 2019-04-23 22:14:55,947 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;option autoplaylist on
+[104.7410302162170410] 2019-04-23 22:14:55,973 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 2777 in on_message: Error in option: CommandError: The autoplaylist is already enabled!
+Traceback (most recent call last):
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 2755, in on_message
+    response = await handler(**handler_kwargs)
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 137, in wrapper
+    return await func(self, *args, **kwargs)
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 2164, in cmd_option
+    raise exceptions.CommandError(self.str.get('cmd-option-autoplaylist-enabled', 'The autoplaylist is already enabled!'))
+musicbot.exceptions.CommandError: The autoplaylist is already enabled!
+[106.3980114459991455] 2019-04-23 22:14:57,630 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=TYRDgd3Tb44": ERROR: TYRDgd3Tb44: "token" parameter not in video info for unknown reason
+[106.4120008945465088] 2019-04-23 22:14:57,644 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=TYRDgd3Tb44
+[106.4149994850158691] 2019-04-23 22:14:57,647 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[109.1081242561340332] 2019-04-23 22:15:00,340 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=-uEkDyHp4vA": ERROR: -uEkDyHp4vA: "token" parameter not in video info for unknown reason
+[109.1161184310913086] 2019-04-23 22:15:00,348 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=-uEkDyHp4vA
+[109.1221163272857666] 2019-04-23 22:15:00,354 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[110.0572471618652344] 2019-04-23 22:15:01,289 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 828 in safe_delete_message: Cannot delete message ";option autoplaylist on", message not found
+[110.9893476963043213] 2019-04-23 22:15:02,221 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: A_E-QcfWwSs: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+[111.1082732677459717] 2019-04-23 22:15:02,340 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=A_E-QcfWwSs
+[111.1102740764617920] 2019-04-23 22:15:02,342 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[114.0890965461730957] 2019-04-23 22:15:05,321 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=nujTVzx3hQU": ERROR: nujTVzx3hQU: "token" parameter not in video info for unknown reason
+[114.1650497913360596] 2019-04-23 22:15:05,397 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=nujTVzx3hQU
+[114.1700475215911865] 2019-04-23 22:15:05,402 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[116.7865054607391357] 2019-04-23 22:15:08,018 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=B7xai5u_tnk": ERROR: B7xai5u_tnk: "token" parameter not in video info for unknown reason
+[116.7914996147155762] 2019-04-23 22:15:08,023 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=B7xai5u_tnk
+[116.7944993972778320] 2019-04-23 22:15:08,026 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[119.3354680538177490] 2019-04-23 22:15:10,567 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=Gwfm9wuIj40": ERROR: Gwfm9wuIj40: "token" parameter not in video info for unknown reason
+[119.3544557094573975] 2019-04-23 22:15:10,586 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=Gwfm9wuIj40
+[119.3604526519775391] 2019-04-23 22:15:10,592 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[122.2721743583679199] 2019-04-23 22:15:13,504 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=d01XRSB-7dA": ERROR: d01XRSB-7dA: "token" parameter not in video info for unknown reason
+[122.2771723270416260] 2019-04-23 22:15:13,509 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=d01XRSB-7dA
+[122.2801690101623535] 2019-04-23 22:15:13,512 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[123.8787996768951416] 2019-04-23 22:15:15,111 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;play
+[125.0106875896453857] 2019-04-23 22:15:16,243 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=IKKXdjRXsXQ": ERROR: IKKXdjRXsXQ: "token" parameter not in video info for unknown reason
+[125.0166833400726318] 2019-04-23 22:15:16,249 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=IKKXdjRXsXQ
+[125.0196816921234131] 2019-04-23 22:15:16,252 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[127.5536909103393555] 2019-04-23 22:15:18,786 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=0_xZt5rt4u0": ERROR: 0_xZt5rt4u0: "token" parameter not in video info for unknown reason
+[127.5706782341003418] 2019-04-23 22:15:18,803 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=0_xZt5rt4u0
+[127.5796718597412109] 2019-04-23 22:15:18,811 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[129.8925559520721436] 2019-04-23 22:15:21,124 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=K_h1geOaLvY": ERROR: K_h1geOaLvY: "token" parameter not in video info for unknown reason
+[129.8985505104064941] 2019-04-23 22:15:21,130 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=K_h1geOaLvY
+[129.9005558490753174] 2019-04-23 22:15:21,132 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[132.5345127582550049] 2019-04-23 22:15:23,766 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=pTBQRFWiiHo": ERROR: pTBQRFWiiHo: "token" parameter not in video info for unknown reason
+[132.5435080528259277] 2019-04-23 22:15:23,775 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=pTBQRFWiiHo
+[132.5495038032531738] 2019-04-23 22:15:23,781 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[138.6257731914520264] 2019-04-23 22:15:29,858 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;help
+[142.3051781654357910] 2019-04-23 22:15:33,537 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=ZaLI1pRL11Y": ERROR: ZaLI1pRL11Y: "token" parameter not in video info for unknown reason
+[142.3061771392822266] 2019-04-23 22:15:33,538 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ZaLI1pRL11Y
+[142.3081767559051514] 2019-04-23 22:15:33,540 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[145.1805264949798584] 2019-04-23 22:15:36,412 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=BUV2sRIcnqw": ERROR: BUV2sRIcnqw: "token" parameter not in video info for unknown reason
+[145.1935188770294189] 2019-04-23 22:15:36,425 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=BUV2sRIcnqw
+[145.1955173015594482] 2019-04-23 22:15:36,427 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[147.6971249580383301] 2019-04-23 22:15:38,929 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=raNGeq3_DtM": ERROR: raNGeq3_DtM: "token" parameter not in video info for unknown reason
+[147.6991250514984131] 2019-04-23 22:15:38,931 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=raNGeq3_DtM
+[147.7011232376098633] 2019-04-23 22:15:38,933 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[150.6261410713195801] 2019-04-23 22:15:41,858 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=TMZi25Pq3T8": ERROR: TMZi25Pq3T8: "token" parameter not in video info for unknown reason
+[150.6311371326446533] 2019-04-23 22:15:41,863 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=TMZi25Pq3T8
+[150.6331372261047363] 2019-04-23 22:15:41,865 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[153.1842241287231445] 2019-04-23 22:15:44,416 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=jmwjpHJHolM": ERROR: jmwjpHJHolM: "token" parameter not in video info for unknown reason
+[153.2431867122650146] 2019-04-23 22:15:44,475 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=jmwjpHJHolM
+[153.2451860904693604] 2019-04-23 22:15:44,477 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[154.6423275470733643] 2019-04-23 22:15:45,874 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;resume
+[154.6473252773284912] 2019-04-23 22:15:45,879 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 2777 in on_message: Error in resume: CommandError: Player is not paused.
+Traceback (most recent call last):
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 2755, in on_message
+    response = await handler(**handler_kwargs)
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 1929, in cmd_resume
+    raise exceptions.CommandError(self.str.get('cmd-resume-none', 'Player is not paused.'), expire_in=30)
+musicbot.exceptions.CommandError: Player is not paused.
+[156.1259746551513672] 2019-04-23 22:15:47,358 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=OSPbX0lkTmQ": ERROR: OSPbX0lkTmQ: "token" parameter not in video info for unknown reason
+[156.1279728412628174] 2019-04-23 22:15:47,360 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=OSPbX0lkTmQ
+[156.1299724578857422] 2019-04-23 22:15:47,362 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[158.8543937206268311] 2019-04-23 22:15:50,086 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=r4byIiHc5Eg": ERROR: r4byIiHc5Eg: "token" parameter not in video info for unknown reason
+[158.8563966751098633] 2019-04-23 22:15:50,088 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=r4byIiHc5Eg
+[158.8583934307098389] 2019-04-23 22:15:50,090 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[159.2956323623657227] 2019-04-23 22:15:50,527 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;play
+[161.7331783771514893] 2019-04-23 22:15:52,965 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=6ul-cZyuYq4": ERROR: 6ul-cZyuYq4: "token" parameter not in video info for unknown reason
+[161.7891430854797363] 2019-04-23 22:15:53,021 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=6ul-cZyuYq4
+[161.7931420803070068] 2019-04-23 22:15:53,025 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[164.5270538330078125] 2019-04-23 22:15:55,759 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=v5a0YGaVS0I": ERROR: v5a0YGaVS0I: "token" parameter not in video info for unknown reason
+[164.5620300769805908] 2019-04-23 22:15:55,794 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=v5a0YGaVS0I
+[164.5640316009521484] 2019-04-23 22:15:55,796 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[166.9138219356536865] 2019-04-23 22:15:58,146 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=C0j6pe043L4": ERROR: C0j6pe043L4: "token" parameter not in video info for unknown reason
+[166.9208154678344727] 2019-04-23 22:15:58,153 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=C0j6pe043L4
+[166.9238181114196777] 2019-04-23 22:15:58,156 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[169.5512366294860840] 2019-04-23 22:16:00,783 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=BJxGx2IIIwU": ERROR: BJxGx2IIIwU: "token" parameter not in video info for unknown reason
+[169.6062042713165283] 2019-04-23 22:16:00,838 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=BJxGx2IIIwU
+[169.6082031726837158] 2019-04-23 22:16:00,840 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[172.3281574249267578] 2019-04-23 22:16:03,560 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=1MR5xe1z-eU": ERROR: 1MR5xe1z-eU: "token" parameter not in video info for unknown reason
+[172.3391499519348145] 2019-04-23 22:16:03,571 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=1MR5xe1z-eU
+[172.3401494026184082] 2019-04-23 22:16:03,572 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[174.7008066177368164] 2019-04-23 22:16:05,933 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=kmI_VYPXub0": ERROR: kmI_VYPXub0: "token" parameter not in video info for unknown reason
+[174.7167961597442627] 2019-04-23 22:16:05,949 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=kmI_VYPXub0
+[174.7677659988403320] 2019-04-23 22:16:06,000 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[177.4413437843322754] 2019-04-23 22:16:08,673 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=dXpFEgi43lU": ERROR: dXpFEgi43lU: "token" parameter not in video info for unknown reason
+[177.4423432350158691] 2019-04-23 22:16:08,674 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=dXpFEgi43lU
+[177.4903142452239990] 2019-04-23 22:16:08,722 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[178.5773067474365234] 2019-04-23 22:16:09,809 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;karaoke
+[180.0920765399932861] 2019-04-23 22:16:11,324 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=iPe3LT37h-Y": ERROR: iPe3LT37h-Y: "token" parameter not in video info for unknown reason
+[180.0940754413604736] 2019-04-23 22:16:11,326 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=iPe3LT37h-Y
+[180.0960741043090820] 2019-04-23 22:16:11,328 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[182.5426902770996094] 2019-04-23 22:16:13,775 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;p
+[182.5776672363281250] 2019-04-23 22:16:13,809 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=-pbsYf4Dc7w": ERROR: -pbsYf4Dc7w: "token" parameter not in video info for unknown reason
+[182.6416275501251221] 2019-04-23 22:16:13,873 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=-pbsYf4Dc7w
+[182.6616151332855225] 2019-04-23 22:16:13,893 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[184.9942791461944580] 2019-04-23 22:16:16,226 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 828 in safe_delete_message: Cannot delete message ";resume", message not found
+[185.5384531021118164] 2019-04-23 22:16:16,770 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=Nrx6JIdMB8Y": ERROR: Nrx6JIdMB8Y: "token" parameter not in video info for unknown reason
+[185.5394532680511475] 2019-04-23 22:16:16,771 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=Nrx6JIdMB8Y
+[185.5424525737762451] 2019-04-23 22:16:16,774 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[188.2340455055236816] 2019-04-23 22:16:19,466 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=fJT3b4urwcU": ERROR: fJT3b4urwcU: "token" parameter not in video info for unknown reason
+[188.2450377941131592] 2019-04-23 22:16:19,477 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=fJT3b4urwcU
+[188.2470381259918213] 2019-04-23 22:16:19,479 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[190.7195446491241455] 2019-04-23 22:16:21,951 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=QBXrhgg9s0c": ERROR: QBXrhgg9s0c: "token" parameter not in video info for unknown reason
+[190.7255425453186035] 2019-04-23 22:16:21,957 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=QBXrhgg9s0c
+[190.7365345954895020] 2019-04-23 22:16:21,968 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[192.5007376670837402] 2019-04-23 22:16:23,733 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: IJ5jIOl957M: YouTube said: This video is unavailable.
+[192.5017373561859131] 2019-04-23 22:16:23,734 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=IJ5jIOl957M
+[192.5037367343902588] 2019-04-23 22:16:23,736 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[192.8445289134979248] 2019-04-23 22:16:24,076 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;help karaoke
+[195.1207375526428223] 2019-04-23 22:16:26,353 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=IrVnm66joQk": ERROR: IrVnm66joQk: "token" parameter not in video info for unknown reason
+[195.1217374801635742] 2019-04-23 22:16:26,354 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=IrVnm66joQk
+[195.1237385272979736] 2019-04-23 22:16:26,356 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[197.5345070362091064] 2019-04-23 22:16:28,766 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=ltrMfT4Qz5Y": ERROR: ltrMfT4Qz5Y: "token" parameter not in video info for unknown reason
+[197.5365080833435059] 2019-04-23 22:16:28,768 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ltrMfT4Qz5Y
+[197.5385076999664307] 2019-04-23 22:16:28,770 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[199.9016249179840088] 2019-04-23 22:16:31,133 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=wA1ZelIbUfI": ERROR: wA1ZelIbUfI: "token" parameter not in video info for unknown reason
+[199.9026246070861816] 2019-04-23 22:16:31,134 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=wA1ZelIbUfI
+[199.9056231975555420] 2019-04-23 22:16:31,137 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[202.5778775215148926] 2019-04-23 22:16:33,810 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=Iaa03itxNZ0": ERROR: Iaa03itxNZ0: "token" parameter not in video info for unknown reason
+[202.5828735828399658] 2019-04-23 22:16:33,815 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=Iaa03itxNZ0
+[202.5848715305328369] 2019-04-23 22:16:33,817 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[205.0503587722778320] 2019-04-23 22:16:36,282 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=SW9H1b7zXUY": ERROR: SW9H1b7zXUY: "token" parameter not in video info for unknown reason
+[205.1782791614532471] 2019-04-23 22:16:36,410 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=SW9H1b7zXUY
+[205.2562317848205566] 2019-04-23 22:16:36,488 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[207.7592911720275879] 2019-04-23 22:16:38,991 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=ckt4ScASUhg": ERROR: ckt4ScASUhg: "token" parameter not in video info for unknown reason
+[207.7792806625366211] 2019-04-23 22:16:39,011 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ckt4ScASUhg
+[207.7842755317687988] 2019-04-23 22:16:39,016 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[208.9975898265838623] 2019-04-23 22:16:40,229 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;p young dumb
+[210.4752252101898193] 2019-04-23 22:16:41,707 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=NlpgFuhpgmk": ERROR: NlpgFuhpgmk: "token" parameter not in video info for unknown reason
+[210.5072059631347656] 2019-04-23 22:16:41,739 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=NlpgFuhpgmk
+[210.5092036724090576] 2019-04-23 22:16:41,741 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[212.9498805999755859] 2019-04-23 22:16:44,182 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 2777 in on_message: Error in play: CommandError: ERROR: IPfJnp1guPc: "token" parameter not in video info for unknown reason
+Traceback (most recent call last):
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 796, in extract_info
+    ie_result = ie.extract(url)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\extractor\common.py", line 529, in extract
+    ie_result = self._real_extract(url)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\extractor\youtube.py", line 1693, in _real_extract
+    video_id=video_id)
+youtube_dl.utils.ExtractorError: IPfJnp1guPc: "token" parameter not in video info for unknown reason
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 1370, in cmd_play
+    info_process = await self.downloader.extract_info(player.playlist.loop, song_url, download=False)
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\downloader.py", line 84, in extract_info
+    return await loop.run_in_executor(self.thread_pool, functools.partial(self.unsafe_ytdl.extract_info, *args, **kwargs))
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 807, in extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 868, in process_ie_result
+    extra_info=extra_info)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 807, in extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 1006, in process_ie_result
+    extra_info=extra)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 868, in process_ie_result
+    extra_info=extra_info)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 819, in extract_info
+    self.report_error(compat_str(e), e.format_traceback())
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 624, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 594, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: IPfJnp1guPc: "token" parameter not in video info for unknown reason
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 2755, in on_message
+    response = await handler(**handler_kwargs)
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 1389, in cmd_play
+    raise exceptions.CommandError(e, expire_in=30)
+musicbot.exceptions.CommandError: ERROR: IPfJnp1guPc: "token" parameter not in video info for unknown reason
+[213.0138423442840576] 2019-04-23 22:16:44,246 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=C-o8EeITzYM": ERROR: C-o8EeITzYM: "token" parameter not in video info for unknown reason
+[213.0148403644561768] 2019-04-23 22:16:44,247 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=C-o8EeITzYM
+[213.0168399810791016] 2019-04-23 22:16:44,249 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[215.6617901325225830] 2019-04-23 22:16:46,894 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=aWBtpBwzzdM": ERROR: aWBtpBwzzdM: "token" parameter not in video info for unknown reason
+[215.6647882461547852] 2019-04-23 22:16:46,897 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=aWBtpBwzzdM
+[215.6667873859405518] 2019-04-23 22:16:46,899 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[218.0368697643280029] 2019-04-23 22:16:49,269 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=QrV61ATP3Ec": ERROR: QrV61ATP3Ec: "token" parameter not in video info for unknown reason
+[218.1487989425659180] 2019-04-23 22:16:49,381 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=QrV61ATP3Ec
+[218.3456983566284180] 2019-04-23 22:16:49,578 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[221.3376195430755615] 2019-04-23 22:16:52,569 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=6WEHRveRhU4": ERROR: 6WEHRveRhU4: "token" parameter not in video info for unknown reason
+[221.3386197090148926] 2019-04-23 22:16:52,570 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=6WEHRveRhU4
+[221.3406183719635010] 2019-04-23 22:16:52,572 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[223.6252152919769287] 2019-04-23 22:16:54,857 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=W6CjO0H2j0s": ERROR: W6CjO0H2j0s: "token" parameter not in video info for unknown reason
+[223.6322116851806641] 2019-04-23 22:16:54,864 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=W6CjO0H2j0s
+[223.6342101097106934] 2019-04-23 22:16:54,866 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[226.2197308540344238] 2019-04-23 22:16:57,452 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=NSPv6Fa0cyY": ERROR: NSPv6Fa0cyY: "token" parameter not in video info for unknown reason
+[226.2257244586944580] 2019-04-23 22:16:57,458 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=NSPv6Fa0cyY
+[226.2277238368988037] 2019-04-23 22:16:57,460 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[228.7491357326507568] 2019-04-23 22:16:59,981 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=-w2m-TeLi6I": ERROR: -w2m-TeLi6I: "token" parameter not in video info for unknown reason
+[229.0559487342834473] 2019-04-23 22:17:00,288 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=-w2m-TeLi6I
+[229.2088518142700195] 2019-04-23 22:17:00,441 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[232.1534237861633301] 2019-04-23 22:17:03,385 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=f0mSDdncUVw": ERROR: f0mSDdncUVw: "token" parameter not in video info for unknown reason
+[232.1554224491119385] 2019-04-23 22:17:03,387 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=f0mSDdncUVw
+[232.1574211120605469] 2019-04-23 22:17:03,389 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[234.4760911464691162] 2019-04-23 22:17:05,708 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;leaveserver
+[234.6350624561309814] 2019-04-23 22:17:05,867 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=yhPNZKdVRh8": ERROR: yhPNZKdVRh8: "token" parameter not in video info for unknown reason
+[234.6370606422424316] 2019-04-23 22:17:05,869 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=yhPNZKdVRh8
+[234.6390607357025146] 2019-04-23 22:17:05,871 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[237.9096717834472656] 2019-04-23 22:17:09,141 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=GaxEm9MPlzM": ERROR: GaxEm9MPlzM: "token" parameter not in video info for unknown reason
+[237.9106724262237549] 2019-04-23 22:17:09,142 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=GaxEm9MPlzM
+[237.9136698246002197] 2019-04-23 22:17:09,145 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[240.2068350315093994] 2019-04-23 22:17:11,439 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=yf9OAFML_Eg": ERROR: yf9OAFML_Eg: "token" parameter not in video info for unknown reason
+[240.2078344821929932] 2019-04-23 22:17:11,440 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=yf9OAFML_Eg
+[240.2318208217620850] 2019-04-23 22:17:11,464 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[242.7119920253753662] 2019-04-23 22:17:13,944 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=9K09Ra2l0G8": ERROR: 9K09Ra2l0G8: "token" parameter not in video info for unknown reason
+[242.7669584751129150] 2019-04-23 22:17:13,999 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=9K09Ra2l0G8
+[242.7719552516937256] 2019-04-23 22:17:14,004 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[243.2316734790802002] 2019-04-23 22:17:14,463 - DEBUG - musicbot.bot | In bot.py::MainThread(61656), line 828 in safe_delete_message: Cannot delete message ";p young dumb", message not found
+[244.6638507843017578] 2019-04-23 22:17:15,896 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: ZDwotNLyz10: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+[244.6658489704132080] 2019-04-23 22:17:15,898 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ZDwotNLyz10
+[244.6678488254547119] 2019-04-23 22:17:15,900 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[246.8745720386505127] 2019-04-23 22:17:18,106 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=3ZlDZPYzfm4": ERROR: 3ZlDZPYzfm4: "token" parameter not in video info for unknown reason
+[246.8865652084350586] 2019-04-23 22:17:18,118 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=3ZlDZPYzfm4
+[246.8875632286071777] 2019-04-23 22:17:18,119 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[249.4839575290679932] 2019-04-23 22:17:20,716 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=lRGPbaFy8hw": ERROR: lRGPbaFy8hw: "token" parameter not in video info for unknown reason
+[249.4949512481689453] 2019-04-23 22:17:20,727 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=lRGPbaFy8hw
+[249.4979493618011475] 2019-04-23 22:17:20,730 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[252.1090512275695801] 2019-04-23 22:17:23,341 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=K8_xAAX92BE": ERROR: K8_xAAX92BE: "token" parameter not in video info for unknown reason
+[252.1470289230346680] 2019-04-23 22:17:23,379 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=K8_xAAX92BE
+[252.1500291824340820] 2019-04-23 22:17:23,382 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[254.8997421264648438] 2019-04-23 22:17:26,132 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=5hd53EIKRXI": ERROR: 5hd53EIKRXI: "token" parameter not in video info for unknown reason
+[254.9007420539855957] 2019-04-23 22:17:26,133 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=5hd53EIKRXI
+[254.9027428627014160] 2019-04-23 22:17:26,135 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[256.7311277389526367] 2019-04-23 22:17:27,963 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: o0vDydAHGp0: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+[256.7850940227508545] 2019-04-23 22:17:28,017 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=o0vDydAHGp0
+[256.7870931625366211] 2019-04-23 22:17:28,019 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[259.5016403198242188] 2019-04-23 22:17:30,733 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=44PO8jPGvsE": ERROR: 44PO8jPGvsE: "token" parameter not in video info for unknown reason
+[259.5076324939727783] 2019-04-23 22:17:30,739 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=44PO8jPGvsE
+[259.5096318721771240] 2019-04-23 22:17:30,741 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[261.8277866840362549] 2019-04-23 22:17:33,060 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=ayE6Shlv598": ERROR: ayE6Shlv598: "token" parameter not in video info for unknown reason
+[261.8827545642852783] 2019-04-23 22:17:33,115 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ayE6Shlv598
+[262.0191812515258789] 2019-04-23 22:17:33,251 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[264.7117872238159180] 2019-04-23 22:17:35,944 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=9rixtkYjbRQ": ERROR: 9rixtkYjbRQ: "token" parameter not in video info for unknown reason
+[264.8696913719177246] 2019-04-23 22:17:36,102 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=9rixtkYjbRQ
+[265.0155999660491943] 2019-04-23 22:17:36,247 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[266.7675826549530029] 2019-04-23 22:17:37,999 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: buadfz2qcbY: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+[266.7685832977294922] 2019-04-23 22:17:38,000 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=buadfz2qcbY
+[266.7715814113616943] 2019-04-23 22:17:38,003 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[269.0772182941436768] 2019-04-23 22:17:40,309 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=gbw62iCsS34": ERROR: gbw62iCsS34: "token" parameter not in video info for unknown reason
+[269.0832164287567139] 2019-04-23 22:17:40,315 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=gbw62iCsS34
+[269.0852134227752686] 2019-04-23 22:17:40,317 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[271.6322302818298340] 2019-04-23 22:17:42,864 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=5RoUHTB8Ivc": ERROR: 5RoUHTB8Ivc: "token" parameter not in video info for unknown reason
+[271.6452236175537109] 2019-04-23 22:17:42,877 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=5RoUHTB8Ivc
+[271.6472218036651611] 2019-04-23 22:17:42,879 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[274.3737783432006836] 2019-04-23 22:17:45,606 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=pk5tpGclppc": ERROR: pk5tpGclppc: "token" parameter not in video info for unknown reason
+[274.3867697715759277] 2019-04-23 22:17:45,619 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=pk5tpGclppc
+[274.3887686729431152] 2019-04-23 22:17:45,621 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[276.8217895030975342] 2019-04-23 22:17:48,054 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=LatorN4P9aA": ERROR: LatorN4P9aA: "token" parameter not in video info for unknown reason
+[276.8237917423248291] 2019-04-23 22:17:48,056 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=LatorN4P9aA
+[276.8257870674133301] 2019-04-23 22:17:48,058 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[279.2090373039245605] 2019-04-23 22:17:50,441 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=g2rdrNONy7k": ERROR: g2rdrNONy7k: "token" parameter not in video info for unknown reason
+[279.2110333442687988] 2019-04-23 22:17:50,443 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=g2rdrNONy7k
+[279.2120339870452881] 2019-04-23 22:17:50,444 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[281.6775193214416504] 2019-04-23 22:17:52,909 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=2X_2IdybTV0": ERROR: 2X_2IdybTV0: "token" parameter not in video info for unknown reason
+[281.6795177459716797] 2019-04-23 22:17:52,911 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=2X_2IdybTV0
+[281.6815166473388672] 2019-04-23 22:17:52,913 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[288.4785795211791992] 2019-04-23 22:17:59,710 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: 94M_tkjf-JA: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.
+[288.4805791378021240] 2019-04-23 22:17:59,712 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=94M_tkjf-JA
+[288.4815781116485596] 2019-04-23 22:17:59,713 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[290.9487135410308838] 2019-04-23 22:18:02,181 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=p1Y-rfbzmgY": ERROR: p1Y-rfbzmgY: "token" parameter not in video info for unknown reason
+[290.9507107734680176] 2019-04-23 22:18:02,183 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=p1Y-rfbzmgY
+[290.9527101516723633] 2019-04-23 22:18:02,185 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[293.4093890190124512] 2019-04-23 22:18:04,641 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=oew35i9czi8": ERROR: oew35i9czi8: "token" parameter not in video info for unknown reason
+[293.4133880138397217] 2019-04-23 22:18:04,645 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=oew35i9czi8
+[293.4143869876861572] 2019-04-23 22:18:04,646 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[296.8168549537658691] 2019-04-23 22:18:08,049 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=VRa_PwL2aws": ERROR: VRa_PwL2aws: "token" parameter not in video info for unknown reason
+[296.8218505382537842] 2019-04-23 22:18:08,054 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=VRa_PwL2aws
+[296.8238484859466553] 2019-04-23 22:18:08,056 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[298.5898551940917969] 2019-04-23 22:18:09,822 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: bNCT6pA5I9A: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+[298.5908546447753906] 2019-04-23 22:18:09,823 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=bNCT6pA5I9A
+[298.5928571224212646] 2019-04-23 22:18:09,825 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[300.9643983840942383] 2019-04-23 22:18:12,196 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=7wRHBLwpASw": ERROR: 7wRHBLwpASw: "token" parameter not in video info for unknown reason
+[300.9653983116149902] 2019-04-23 22:18:12,197 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=7wRHBLwpASw
+[300.9673981666564941] 2019-04-23 22:18:12,199 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[303.6196846961975098] 2019-04-23 22:18:14,852 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=0guABiTAbBk": ERROR: 0guABiTAbBk: "token" parameter not in video info for unknown reason
+[303.6246790885925293] 2019-04-23 22:18:14,857 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=0guABiTAbBk
+[303.6266791820526123] 2019-04-23 22:18:14,859 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[306.1166586875915527] 2019-04-23 22:18:17,348 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=khby51sf82s": ERROR: khby51sf82s: "token" parameter not in video info for unknown reason
+[306.1206581592559814] 2019-04-23 22:18:17,352 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=khby51sf82s
+[306.1226568222045898] 2019-04-23 22:18:17,354 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[308.8379878997802734] 2019-04-23 22:18:20,070 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=ux9vr4xfWj4": ERROR: ux9vr4xfWj4: "token" parameter not in video info for unknown reason
+[308.8409860134124756] 2019-04-23 22:18:20,073 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ux9vr4xfWj4
+[308.8429853916168213] 2019-04-23 22:18:20,075 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[311.3010115623474121] 2019-04-23 22:18:22,533 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=q0tnCdJQwTE": ERROR: q0tnCdJQwTE: "token" parameter not in video info for unknown reason
+[311.3030104637145996] 2019-04-23 22:18:22,535 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=q0tnCdJQwTE
+[311.3050086498260498] 2019-04-23 22:18:22,537 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[314.0263369083404541] 2019-04-23 22:18:25,258 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=2SYYM78rjYQ": ERROR: 2SYYM78rjYQ: "token" parameter not in video info for unknown reason
+[314.0483245849609375] 2019-04-23 22:18:25,280 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=2SYYM78rjYQ
+[314.0503239631652832] 2019-04-23 22:18:25,282 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[316.5146591663360596] 2019-04-23 22:18:27,746 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=9uwEAugeH8w": ERROR: 9uwEAugeH8w: "token" parameter not in video info for unknown reason
+[316.5156579017639160] 2019-04-23 22:18:27,747 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=9uwEAugeH8w
+[316.5176579952239990] 2019-04-23 22:18:27,749 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[319.0316245555877686] 2019-04-23 22:18:30,263 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=myUuXffyu_k": ERROR: myUuXffyu_k: "token" parameter not in video info for unknown reason
+[319.0486142635345459] 2019-04-23 22:18:30,280 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=myUuXffyu_k
+[319.0576083660125732] 2019-04-23 22:18:30,289 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[321.5436367988586426] 2019-04-23 22:18:32,775 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=KUBw0B6RdBQ": ERROR: KUBw0B6RdBQ: "token" parameter not in video info for unknown reason
+[321.5456359386444092] 2019-04-23 22:18:32,777 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=KUBw0B6RdBQ
+[321.5606267452239990] 2019-04-23 22:18:32,792 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[323.9961934089660645] 2019-04-23 22:18:35,228 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=jQH0GPL33uc": ERROR: jQH0GPL33uc: "token" parameter not in video info for unknown reason
+[323.9971930980682373] 2019-04-23 22:18:35,229 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=jQH0GPL33uc
+[323.9991922378540039] 2019-04-23 22:18:35,231 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[326.2528393268585205] 2019-04-23 22:18:37,485 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=KUwjNBjqR-c": ERROR: KUwjNBjqR-c: "token" parameter not in video info for unknown reason
+[326.2538387775421143] 2019-04-23 22:18:37,486 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=KUwjNBjqR-c
+[326.2558369636535645] 2019-04-23 22:18:37,488 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[328.6834869384765625] 2019-04-23 22:18:39,915 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=gqI-6xag8Mg": ERROR: gqI-6xag8Mg: "token" parameter not in video info for unknown reason
+[328.7304587364196777] 2019-04-23 22:18:39,962 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=gqI-6xag8Mg
+[328.7514452934265137] 2019-04-23 22:18:39,983 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[331.3993325233459473] 2019-04-23 22:18:42,631 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=9meo3vazXcw": ERROR: 9meo3vazXcw: "token" parameter not in video info for unknown reason
+[331.4093251228332520] 2019-04-23 22:18:42,641 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=9meo3vazXcw
+[331.4113242626190186] 2019-04-23 22:18:42,643 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[334.1392188072204590] 2019-04-23 22:18:45,371 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=J9nMlGRDXlw": ERROR: J9nMlGRDXlw: "token" parameter not in video info for unknown reason
+[334.1402182579040527] 2019-04-23 22:18:45,372 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=J9nMlGRDXlw
+[334.1422169208526611] 2019-04-23 22:18:45,374 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[336.6532998085021973] 2019-04-23 22:18:47,885 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=3_-a9nVZYjk": ERROR: 3_-a9nVZYjk: "token" parameter not in video info for unknown reason
+[336.6552991867065430] 2019-04-23 22:18:47,887 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=3_-a9nVZYjk
+[336.6572988033294678] 2019-04-23 22:18:47,889 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[339.1207859516143799] 2019-04-23 22:18:50,353 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=E2JQxgffxKg": ERROR: E2JQxgffxKg: "token" parameter not in video info for unknown reason
+[339.1307780742645264] 2019-04-23 22:18:50,363 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=E2JQxgffxKg
+[339.1337773799896240] 2019-04-23 22:18:50,366 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[341.1677789688110352] 2019-04-23 22:18:52,400 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: bbw1r32MJpY: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+[341.1707785129547119] 2019-04-23 22:18:52,403 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=bbw1r32MJpY
+[341.1727755069732666] 2019-04-23 22:18:52,405 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[343.8571276664733887] 2019-04-23 22:18:55,089 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=gFccdvKehQI": ERROR: gFccdvKehQI: "token" parameter not in video info for unknown reason
+[343.8761150836944580] 2019-04-23 22:18:55,108 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=gFccdvKehQI
+[343.8791210651397705] 2019-04-23 22:18:55,111 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[346.2578935623168945] 2019-04-23 22:18:57,490 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=QdGD3Ukb3Q0": ERROR: QdGD3Ukb3Q0: "token" parameter not in video info for unknown reason
+[346.2608923912048340] 2019-04-23 22:18:57,493 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=QdGD3Ukb3Q0
+[346.2638897895812988] 2019-04-23 22:18:57,496 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[348.9862651824951172] 2019-04-23 22:19:00,218 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=UA2XIWZxMKM": ERROR: UA2XIWZxMKM: "token" parameter not in video info for unknown reason
+[348.9982566833496094] 2019-04-23 22:19:00,230 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=UA2XIWZxMKM
+[348.9992563724517822] 2019-04-23 22:19:00,231 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[351.4658193588256836] 2019-04-23 22:19:02,698 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=-oVW8gcse4g": ERROR: -oVW8gcse4g: "token" parameter not in video info for unknown reason
+[351.4718153476715088] 2019-04-23 22:19:02,704 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=-oVW8gcse4g
+[351.4738161563873291] 2019-04-23 22:19:02,706 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[354.1877405643463135] 2019-04-23 22:19:05,420 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=R0H4mL3OW-4": ERROR: R0H4mL3OW-4: "token" parameter not in video info for unknown reason
+[354.2277157306671143] 2019-04-23 22:19:05,460 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=R0H4mL3OW-4
+[354.2297134399414062] 2019-04-23 22:19:05,462 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[356.4904823303222656] 2019-04-23 22:19:07,722 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: KCy7lLQwToI: YouTube said: This video contains content from SME, who has blocked it in your country on copyright grounds.
+[356.5394506454467773] 2019-04-23 22:19:07,771 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=KCy7lLQwToI
+[356.5414505004882812] 2019-04-23 22:19:07,773 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[359.3256776332855225] 2019-04-23 22:19:10,558 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=3IHWKU9V1lA": ERROR: 3IHWKU9V1lA: "token" parameter not in video info for unknown reason
+[359.3666522502899170] 2019-04-23 22:19:10,598 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=3IHWKU9V1lA
+[359.3686525821685791] 2019-04-23 22:19:10,600 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[362.7746744155883789] 2019-04-23 22:19:14,006 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=ZfNR98ajB1U": ERROR: ZfNR98ajB1U: "token" parameter not in video info for unknown reason
+[362.8056542873382568] 2019-04-23 22:19:14,037 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ZfNR98ajB1U
+[362.8066534996032715] 2019-04-23 22:19:14,038 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[365.4961497783660889] 2019-04-23 22:19:16,728 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=zSAJ0l4OBHM": ERROR: zSAJ0l4OBHM: "token" parameter not in video info for unknown reason
+[365.5836074352264404] 2019-04-23 22:19:16,815 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=zSAJ0l4OBHM
+[365.5866062641143799] 2019-04-23 22:19:16,818 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[367.9953949451446533] 2019-04-23 22:19:19,227 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=71tyUqMZOSc": ERROR: 71tyUqMZOSc: "token" parameter not in video info for unknown reason
+[367.9963929653167725] 2019-04-23 22:19:19,228 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=71tyUqMZOSc
+[368.0013904571533203] 2019-04-23 22:19:19,233 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[369.8393528461456299] 2019-04-23 22:19:21,071 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: YfScJUuSV68: YouTube said: This video is unavailable.
+[369.8413512706756592] 2019-04-23 22:19:21,073 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=YfScJUuSV68
+[369.8423509597778320] 2019-04-23 22:19:21,074 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[372.3078577518463135] 2019-04-23 22:19:23,540 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=-kAsZVn44aI": ERROR: -kAsZVn44aI: "token" parameter not in video info for unknown reason
+[372.3218481540679932] 2019-04-23 22:19:23,554 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=-kAsZVn44aI
+[372.3238465785980225] 2019-04-23 22:19:23,556 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[374.8230693340301514] 2019-04-23 22:19:26,055 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=4Yi9fb4pyTc": ERROR: 4Yi9fb4pyTc: "token" parameter not in video info for unknown reason
+[374.8240687847137451] 2019-04-23 22:19:26,056 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=4Yi9fb4pyTc
+[374.8255980014801025] 2019-04-23 22:19:26,057 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[377.3766574859619141] 2019-04-23 22:19:28,608 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=ZbHJHPTikQA": ERROR: ZbHJHPTikQA: "token" parameter not in video info for unknown reason
+[377.4266242980957031] 2019-04-23 22:19:28,658 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ZbHJHPTikQA
+[377.5155711174011230] 2019-04-23 22:19:28,747 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[379.8563103675842285] 2019-04-23 22:19:31,088 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=oQ3C8fjqu_A": ERROR: oQ3C8fjqu_A: "token" parameter not in video info for unknown reason
+[379.8663039207458496] 2019-04-23 22:19:31,098 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=oQ3C8fjqu_A
+[379.8683035373687744] 2019-04-23 22:19:31,100 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[382.5693295001983643] 2019-04-23 22:19:33,801 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=Ai4kVwg1kkc": ERROR: Ai4kVwg1kkc: "token" parameter not in video info for unknown reason
+[382.5703282356262207] 2019-04-23 22:19:33,802 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=Ai4kVwg1kkc
+[382.5723266601562500] 2019-04-23 22:19:33,804 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[385.0008764266967773] 2019-04-23 22:19:36,233 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=DI9weHFUtuk": ERROR: DI9weHFUtuk: "token" parameter not in video info for unknown reason
+[385.0368537902832031] 2019-04-23 22:19:36,269 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=DI9weHFUtuk
+[385.0398516654968262] 2019-04-23 22:19:36,272 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[387.8841280937194824] 2019-04-23 22:19:39,116 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=MV0F_XiR48Q": ERROR: MV0F_XiR48Q: "token" parameter not in video info for unknown reason
+[387.8871257305145264] 2019-04-23 22:19:39,119 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=MV0F_XiR48Q
+[387.8901228904724121] 2019-04-23 22:19:39,122 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[390.2511725425720215] 2019-04-23 22:19:41,483 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=6VQJHSnGIXk": ERROR: 6VQJHSnGIXk: "token" parameter not in video info for unknown reason
+[390.2531709671020508] 2019-04-23 22:19:41,485 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=6VQJHSnGIXk
+[390.2551705837249756] 2019-04-23 22:19:41,487 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[392.6970684528350830] 2019-04-23 22:19:43,929 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=5tfZAyNYWN4": ERROR: 5tfZAyNYWN4: "token" parameter not in video info for unknown reason
+[392.6980679035186768] 2019-04-23 22:19:43,930 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=5tfZAyNYWN4
+[392.6990659236907959] 2019-04-23 22:19:43,931 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[395.0603094100952148] 2019-04-23 22:19:46,292 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=qebEy8p6pAY": ERROR: qebEy8p6pAY: "token" parameter not in video info for unknown reason
+[395.0613088607788086] 2019-04-23 22:19:46,293 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=qebEy8p6pAY
+[395.0633068084716797] 2019-04-23 22:19:46,295 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[397.8696718215942383] 2019-04-23 22:19:49,101 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=gmBRRaqGYNw": ERROR: gmBRRaqGYNw: "token" parameter not in video info for unknown reason
+[397.8716697692871094] 2019-04-23 22:19:49,103 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=gmBRRaqGYNw
+[397.8726692199707031] 2019-04-23 22:19:49,104 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[400.2473826408386230] 2019-04-23 22:19:51,479 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=rivFCwwvoh8": ERROR: rivFCwwvoh8: "token" parameter not in video info for unknown reason
+[400.2483806610107422] 2019-04-23 22:19:51,480 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=rivFCwwvoh8
+[400.2493803501129150] 2019-04-23 22:19:51,481 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[402.6039719581604004] 2019-04-23 22:19:53,836 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=pcGGfojS58U": ERROR: pcGGfojS58U: "token" parameter not in video info for unknown reason
+[402.6049730777740479] 2019-04-23 22:19:53,837 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=pcGGfojS58U
+[402.6069695949554443] 2019-04-23 22:19:53,839 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[404.8999550342559814] 2019-04-23 22:19:56,132 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=YjRWditGKRY": ERROR: YjRWditGKRY: "token" parameter not in video info for unknown reason
+[404.9159443378448486] 2019-04-23 22:19:56,148 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=YjRWditGKRY
+[404.9179439544677734] 2019-04-23 22:19:56,150 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[407.7492320537567139] 2019-04-23 22:19:58,981 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=nf0oXY4nDxE": ERROR: nf0oXY4nDxE: "token" parameter not in video info for unknown reason
+[407.7552256584167480] 2019-04-23 22:19:58,987 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=nf0oXY4nDxE
+[407.7572252750396729] 2019-04-23 22:19:58,989 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[410.6110274791717529] 2019-04-23 22:20:01,843 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=ibjNly0E_gk": ERROR: ibjNly0E_gk: "token" parameter not in video info for unknown reason
+[410.6370124816894531] 2019-04-23 22:20:01,869 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ibjNly0E_gk
+[410.6390106678009033] 2019-04-23 22:20:01,871 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[413.4750247001647949] 2019-04-23 22:20:04,707 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=PL5ZyYJBU4c": ERROR: PL5ZyYJBU4c: "token" parameter not in video info for unknown reason
+[413.4890170097351074] 2019-04-23 22:20:04,721 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=PL5ZyYJBU4c
+[413.4910151958465576] 2019-04-23 22:20:04,723 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[416.0339624881744385] 2019-04-23 22:20:07,266 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=ycslsuleRCA": ERROR: ycslsuleRCA: "token" parameter not in video info for unknown reason
+[416.0549509525299072] 2019-04-23 22:20:07,287 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ycslsuleRCA
+[416.0819337368011475] 2019-04-23 22:20:07,314 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[418.3390130996704102] 2019-04-23 22:20:09,571 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=oxKCPjcvbys": ERROR: oxKCPjcvbys: "token" parameter not in video info for unknown reason
+[418.3400115966796875] 2019-04-23 22:20:09,572 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=oxKCPjcvbys
+[418.3420135974884033] 2019-04-23 22:20:09,574 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[421.2629575729370117] 2019-04-23 22:20:12,495 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=EjP1w3MIZsg": ERROR: EjP1w3MIZsg: "token" parameter not in video info for unknown reason
+[421.5727710723876953] 2019-04-23 22:20:12,805 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=EjP1w3MIZsg
+[421.6707067489624023] 2019-04-23 22:20:12,903 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[424.2666876316070557] 2019-04-23 22:20:15,499 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=UwuDhK_EV5k": ERROR: UwuDhK_EV5k: "token" parameter not in video info for unknown reason
+[424.2676873207092285] 2019-04-23 22:20:15,500 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=UwuDhK_EV5k
+[424.2686867713928223] 2019-04-23 22:20:15,501 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[426.7157204151153564] 2019-04-23 22:20:17,948 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=m3auI7AYoZA": ERROR: m3auI7AYoZA: "token" parameter not in video info for unknown reason
+[426.7886760234832764] 2019-04-23 22:20:18,021 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=m3auI7AYoZA
+[426.7916734218597412] 2019-04-23 22:20:18,023 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[432.1454291343688965] 2019-04-23 22:20:23,377 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=jId1L0gmoDY": ERROR: jId1L0gmoDY: "token" parameter not in video info for unknown reason
+[432.1464288234710693] 2019-04-23 22:20:23,378 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=jId1L0gmoDY
+[432.1484258174896240] 2019-04-23 22:20:23,380 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[434.6332585811614990] 2019-04-23 22:20:25,865 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=hGxUXFlSvbU": ERROR: hGxUXFlSvbU: "token" parameter not in video info for unknown reason
+[434.6352574825286865] 2019-04-23 22:20:25,867 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=hGxUXFlSvbU
+[434.6372556686401367] 2019-04-23 22:20:25,869 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[436.5620963573455811] 2019-04-23 22:20:27,794 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: FGT67EzVcfs: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+[436.5640957355499268] 2019-04-23 22:20:27,796 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=FGT67EzVcfs
+[436.5650939941406250] 2019-04-23 22:20:27,797 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[438.9653658866882324] 2019-04-23 22:20:30,197 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=RkqdK0Yiyh8": ERROR: RkqdK0Yiyh8: "token" parameter not in video info for unknown reason
+[438.9743614196777344] 2019-04-23 22:20:30,206 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=RkqdK0Yiyh8
+[438.9823558330535889] 2019-04-23 22:20:30,214 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[441.6267933845520020] 2019-04-23 22:20:32,859 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=zpzOFpPum6w": ERROR: zpzOFpPum6w: "token" parameter not in video info for unknown reason
+[441.6287930011749268] 2019-04-23 22:20:32,861 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=zpzOFpPum6w
+[441.6337893009185791] 2019-04-23 22:20:32,866 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[443.4677863121032715] 2019-04-23 22:20:34,700 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: 1ewkF_Al52o: YouTube said: This video is unavailable.
+[443.4687867164611816] 2019-04-23 22:20:34,701 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=1ewkF_Al52o
+[443.4707851409912109] 2019-04-23 22:20:34,703 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[446.1966125965118408] 2019-04-23 22:20:37,428 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: UyNllqk-4iM: YouTube said: This video is unavailable.
+[446.1986107826232910] 2019-04-23 22:20:37,430 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=UyNllqk-4iM
+[446.2006106376647949] 2019-04-23 22:20:37,432 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[448.6444149017333984] 2019-04-23 22:20:39,876 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=v0g1xzCpEOM": ERROR: v0g1xzCpEOM: "token" parameter not in video info for unknown reason
+[448.6644024848937988] 2019-04-23 22:20:39,896 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=v0g1xzCpEOM
+[448.6664018630981445] 2019-04-23 22:20:39,898 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[451.1936671733856201] 2019-04-23 22:20:42,425 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=c2orBsXp4HM": ERROR: c2orBsXp4HM: "token" parameter not in video info for unknown reason
+[451.1956641674041748] 2019-04-23 22:20:42,427 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=c2orBsXp4HM
+[451.1966633796691895] 2019-04-23 22:20:42,428 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[454.1649291515350342] 2019-04-23 22:20:45,397 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=hf4IxNNiqbU": ERROR: hf4IxNNiqbU: "token" parameter not in video info for unknown reason
+[454.1659276485443115] 2019-04-23 22:20:45,398 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=hf4IxNNiqbU
+[454.1679267883300781] 2019-04-23 22:20:45,400 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[456.5672793388366699] 2019-04-23 22:20:47,799 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=x_P5smsopK0": ERROR: x_P5smsopK0: "token" parameter not in video info for unknown reason
+[456.5692756175994873] 2019-04-23 22:20:47,801 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=x_P5smsopK0
+[456.5712730884552002] 2019-04-23 22:20:47,803 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[459.2184021472930908] 2019-04-23 22:20:50,450 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=siMFORx8uO8": ERROR: siMFORx8uO8: "token" parameter not in video info for unknown reason
+[459.2194023132324219] 2019-04-23 22:20:50,451 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=siMFORx8uO8
+[459.2213993072509766] 2019-04-23 22:20:50,453 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[461.5994515419006348] 2019-04-23 22:20:52,831 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=_yQl3C52Smw": ERROR: _yQl3C52Smw: "token" parameter not in video info for unknown reason
+[461.6004495620727539] 2019-04-23 22:20:52,832 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=_yQl3C52Smw
+[461.6024506092071533] 2019-04-23 22:20:52,834 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[464.4573447704315186] 2019-04-23 22:20:55,689 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=v6UZTw1uHmk": ERROR: v6UZTw1uHmk: "token" parameter not in video info for unknown reason
+[464.4633412361145020] 2019-04-23 22:20:55,695 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=v6UZTw1uHmk
+[464.4653398990631104] 2019-04-23 22:20:55,697 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[467.2324132919311523] 2019-04-23 22:20:58,464 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=_FrOQC-zEog": ERROR: _FrOQC-zEog: "token" parameter not in video info for unknown reason
+[467.2344119548797607] 2019-04-23 22:20:58,466 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=_FrOQC-zEog
+[467.2354123592376709] 2019-04-23 22:20:58,467 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[469.5886573791503906] 2019-04-23 22:21:00,820 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=FKsfvx5h_jg": ERROR: FKsfvx5h_jg: "token" parameter not in video info for unknown reason
+[469.5906569957733154] 2019-04-23 22:21:00,822 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=FKsfvx5h_jg
+[469.5926558971405029] 2019-04-23 22:21:00,824 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[472.5660758018493652] 2019-04-23 22:21:03,798 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=DLokeU1Ck-Q": ERROR: DLokeU1Ck-Q: "token" parameter not in video info for unknown reason
+[472.5765781402587891] 2019-04-23 22:21:03,808 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=DLokeU1Ck-Q
+[472.5785765647888184] 2019-04-23 22:21:03,810 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[475.3824124336242676] 2019-04-23 22:21:06,614 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=GVYl_hiD1oQ": ERROR: GVYl_hiD1oQ: "token" parameter not in video info for unknown reason
+[475.3834099769592285] 2019-04-23 22:21:06,615 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=GVYl_hiD1oQ
+[475.3854103088378906] 2019-04-23 22:21:06,617 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[477.9314341545104980] 2019-04-23 22:21:09,163 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=IwSTe9uit48": ERROR: IwSTe9uit48: "token" parameter not in video info for unknown reason
+[477.9374296665191650] 2019-04-23 22:21:09,169 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=IwSTe9uit48
+[477.9384298324584961] 2019-04-23 22:21:09,170 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[480.3998725414276123] 2019-04-23 22:21:11,632 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=3LRmrpUV6iQ": ERROR: 3LRmrpUV6iQ: "token" parameter not in video info for unknown reason
+[480.4008717536926270] 2019-04-23 22:21:11,633 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=3LRmrpUV6iQ
+[480.4018707275390625] 2019-04-23 22:21:11,634 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[483.1393170356750488] 2019-04-23 22:21:14,371 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=rOuF3k_-asA": ERROR: rOuF3k_-asA: "token" parameter not in video info for unknown reason
+[483.1503090858459473] 2019-04-23 22:21:14,382 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=rOuF3k_-asA
+[483.1513085365295410] 2019-04-23 22:21:14,383 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[484.8656456470489502] 2019-04-23 22:21:16,097 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: ZBsFntczDoM: YouTube said: This video is unavailable.
+[484.8666443824768066] 2019-04-23 22:21:16,098 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ZBsFntczDoM
+[484.8676445484161377] 2019-04-23 22:21:16,099 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[486.8639531135559082] 2019-04-23 22:21:18,096 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: Y9rxeyzyKVw: YouTube said: This video is unavailable.
+[486.8659501075744629] 2019-04-23 22:21:18,098 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=Y9rxeyzyKVw
+[486.8669500350952148] 2019-04-23 22:21:18,099 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[489.5859086513519287] 2019-04-23 22:21:20,818 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=DAsUNTHRjaM": ERROR: DAsUNTHRjaM: "token" parameter not in video info for unknown reason
+[489.5929024219512939] 2019-04-23 22:21:20,825 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=DAsUNTHRjaM
+[489.5949025154113770] 2019-04-23 22:21:20,827 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[492.0410647392272949] 2019-04-23 22:21:23,273 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=Xda_K7abC2I": ERROR: Xda_K7abC2I: "token" parameter not in video info for unknown reason
+[492.0430626869201660] 2019-04-23 22:21:23,275 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=Xda_K7abC2I
+[492.0450613498687744] 2019-04-23 22:21:23,277 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[495.0759203433990479] 2019-04-23 22:21:26,308 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=EZ7zIrNMIH8": ERROR: EZ7zIrNMIH8: "token" parameter not in video info for unknown reason
+[495.1218912601470947] 2019-04-23 22:21:26,354 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=EZ7zIrNMIH8
+[495.1238911151885986] 2019-04-23 22:21:26,356 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[497.7952501773834229] 2019-04-23 22:21:29,027 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=9opx_afte0I": ERROR: 9opx_afte0I: "token" parameter not in video info for unknown reason
+[497.8002462387084961] 2019-04-23 22:21:29,032 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=9opx_afte0I
+[497.8022465705871582] 2019-04-23 22:21:29,034 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[500.4406874179840088] 2019-04-23 22:21:31,673 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=wGFpMPgSbB4": ERROR: wGFpMPgSbB4: "token" parameter not in video info for unknown reason
+[500.4426875114440918] 2019-04-23 22:21:31,675 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=wGFpMPgSbB4
+[500.4456858634948730] 2019-04-23 22:21:31,678 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[502.8822162151336670] 2019-04-23 22:21:34,114 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=_izt7vlJKM0": ERROR: _izt7vlJKM0: "token" parameter not in video info for unknown reason
+[502.8852128982543945] 2019-04-23 22:21:34,117 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=_izt7vlJKM0
+[502.8872132301330566] 2019-04-23 22:21:34,119 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[504.8622100353240967] 2019-04-23 22:21:36,094 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: lECJ2bu0Kv8: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+[504.8672044277191162] 2019-04-23 22:21:36,099 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=lECJ2bu0Kv8
+[504.8702042102813721] 2019-04-23 22:21:36,102 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[507.7162039279937744] 2019-04-23 22:21:38,948 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=XbZR9JhGJ0Q": ERROR: XbZR9JhGJ0Q: "token" parameter not in video info for unknown reason
+[507.7241964340209961] 2019-04-23 22:21:38,956 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=XbZR9JhGJ0Q
+[507.7441847324371338] 2019-04-23 22:21:38,976 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[510.5635201930999756] 2019-04-23 22:21:41,795 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=C8jRc7LWxB0": ERROR: C8jRc7LWxB0: "token" parameter not in video info for unknown reason
+[510.5695149898529053] 2019-04-23 22:21:41,801 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=C8jRc7LWxB0
+[510.5715153217315674] 2019-04-23 22:21:41,803 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[513.0496697425842285] 2019-04-23 22:21:44,281 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=K65gJEsqegE": ERROR: K65gJEsqegE: "token" parameter not in video info for unknown reason
+[513.0526683330535889] 2019-04-23 22:21:44,284 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=K65gJEsqegE
+[513.0546679496765137] 2019-04-23 22:21:44,286 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[515.7740607261657715] 2019-04-23 22:21:47,006 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=6jd0VICL4og": ERROR: 6jd0VICL4og: "token" parameter not in video info for unknown reason
+[515.7760605812072754] 2019-04-23 22:21:47,008 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=6jd0VICL4og
+[515.7780575752258301] 2019-04-23 22:21:47,010 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[518.1151609420776367] 2019-04-23 22:21:49,347 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=Gqw62pN960U": ERROR: Gqw62pN960U: "token" parameter not in video info for unknown reason
+[518.1731257438659668] 2019-04-23 22:21:49,405 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=Gqw62pN960U
+[518.2131006717681885] 2019-04-23 22:21:49,445 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[520.6057195663452148] 2019-04-23 22:21:51,838 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: z269QQh7ano: YouTube said: This video contains content from SME, who has blocked it in your country on copyright grounds.
+[520.6067214012145996] 2019-04-23 22:21:51,839 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=z269QQh7ano
+[520.6087186336517334] 2019-04-23 22:21:51,841 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[523.1012511253356934] 2019-04-23 22:21:54,333 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=5UUwc0llyEk": ERROR: 5UUwc0llyEk: "token" parameter not in video info for unknown reason
+[523.1862006187438965] 2019-04-23 22:21:54,418 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=5UUwc0llyEk
+[523.1892004013061523] 2019-04-23 22:21:54,421 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[526.0614881515502930] 2019-04-23 22:21:57,293 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=oiG-4-V7Xd0": ERROR: oiG-4-V7Xd0: "token" parameter not in video info for unknown reason
+[526.1004621982574463] 2019-04-23 22:21:57,332 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=oiG-4-V7Xd0
+[526.1264469623565674] 2019-04-23 22:21:57,358 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[527.8614535331726074] 2019-04-23 22:21:59,093 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: cqkzoskWfww: YouTube said: This video is unavailable.
+[527.8634531497955322] 2019-04-23 22:21:59,095 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=cqkzoskWfww
+[527.8644521236419678] 2019-04-23 22:21:59,096 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[530.6028766632080078] 2019-04-23 22:22:01,835 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=V0tiM_RLXCs": ERROR: V0tiM_RLXCs: "token" parameter not in video info for unknown reason
+[530.6078751087188721] 2019-04-23 22:22:01,840 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=V0tiM_RLXCs
+[530.6098749637603760] 2019-04-23 22:22:01,842 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[536.7187867164611816] 2019-04-23 22:22:07,951 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: gUAWeM28wjQ: YouTube said: This video is unavailable.
+[536.7417700290679932] 2019-04-23 22:22:07,974 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=gUAWeM28wjQ
+[536.7447695732116699] 2019-04-23 22:22:07,977 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[539.1758761405944824] 2019-04-23 22:22:10,408 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=pKh_ZHexNZQ": ERROR: pKh_ZHexNZQ: "token" parameter not in video info for unknown reason
+[539.1968643665313721] 2019-04-23 22:22:10,429 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=pKh_ZHexNZQ
+[539.1988639831542969] 2019-04-23 22:22:10,431 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[541.6084794998168945] 2019-04-23 22:22:12,840 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=_J0ZpJMQjDo": ERROR: _J0ZpJMQjDo: "token" parameter not in video info for unknown reason
+[541.6574513912200928] 2019-04-23 22:22:12,889 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=_J0ZpJMQjDo
+[541.8583278656005859] 2019-04-23 22:22:13,090 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[544.7977402210235596] 2019-04-23 22:22:16,030 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=sEX98pH5qIA": ERROR: sEX98pH5qIA: "token" parameter not in video info for unknown reason
+[544.8567037582397461] 2019-04-23 22:22:16,089 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=sEX98pH5qIA
+[544.8577027320861816] 2019-04-23 22:22:16,090 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[547.5837631225585938] 2019-04-23 22:22:18,816 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=OMOGaugKpzs": ERROR: OMOGaugKpzs: "token" parameter not in video info for unknown reason
+[547.5977511405944824] 2019-04-23 22:22:18,830 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=OMOGaugKpzs
+[547.5987491607666016] 2019-04-23 22:22:18,831 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[550.0800683498382568] 2019-04-23 22:22:21,312 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=YeLqgmVJk0Y": ERROR: YeLqgmVJk0Y: "token" parameter not in video info for unknown reason
+[550.0840678215026855] 2019-04-23 22:22:21,316 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=YeLqgmVJk0Y
+[550.0880649089813232] 2019-04-23 22:22:21,320 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[552.8563902378082275] 2019-04-23 22:22:24,088 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=djV11Xbc914": ERROR: djV11Xbc914: "token" parameter not in video info for unknown reason
+[552.8603873252868652] 2019-04-23 22:22:24,092 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=djV11Xbc914
+[552.8643863201141357] 2019-04-23 22:22:24,096 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[555.5325584411621094] 2019-04-23 22:22:26,764 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=PPapt88_3aU": ERROR: PPapt88_3aU: "token" parameter not in video info for unknown reason
+[555.5350842475891113] 2019-04-23 22:22:26,767 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=PPapt88_3aU
+[555.5370664596557617] 2019-04-23 22:22:26,769 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[558.7253770828247070] 2019-04-23 22:22:29,957 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=55mbyhqIcNo": ERROR: 55mbyhqIcNo: "token" parameter not in video info for unknown reason
+[558.7293751239776611] 2019-04-23 22:22:29,961 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=55mbyhqIcNo
+[558.7329142093658447] 2019-04-23 22:22:29,965 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[561.6019530296325684] 2019-04-23 22:22:32,834 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=n5vdgTt9VPU": ERROR: n5vdgTt9VPU: "token" parameter not in video info for unknown reason
+[561.6069512367248535] 2019-04-23 22:22:32,839 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=n5vdgTt9VPU
+[561.6089508533477783] 2019-04-23 22:22:32,841 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[565.1498789787292480] 2019-04-23 22:22:36,382 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=1AfNOKQdY-U": ERROR: 1AfNOKQdY-U: "token" parameter not in video info for unknown reason
+[565.2438211441040039] 2019-04-23 22:22:36,476 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=1AfNOKQdY-U
+[565.2478196620941162] 2019-04-23 22:22:36,480 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[567.6354341506958008] 2019-04-23 22:22:38,867 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=DECp8LKurKs": ERROR: DECp8LKurKs: "token" parameter not in video info for unknown reason
+[567.6484279632568359] 2019-04-23 22:22:38,880 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=DECp8LKurKs
+[567.6504244804382324] 2019-04-23 22:22:38,882 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[570.1299655437469482] 2019-04-23 22:22:41,362 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=W985hWD5KYg": ERROR: W985hWD5KYg: "token" parameter not in video info for unknown reason
+[570.1309649944305420] 2019-04-23 22:22:41,363 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=W985hWD5KYg
+[570.1339654922485352] 2019-04-23 22:22:41,366 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[572.6001462936401367] 2019-04-23 22:22:43,832 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=B7D0GKJDU3I": ERROR: B7D0GKJDU3I: "token" parameter not in video info for unknown reason
+[572.6111438274383545] 2019-04-23 22:22:43,843 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=B7D0GKJDU3I
+[572.6161437034606934] 2019-04-23 22:22:43,848 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[575.0049138069152832] 2019-04-23 22:22:46,237 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=8nBgXXHvKHU": ERROR: 8nBgXXHvKHU: "token" parameter not in video info for unknown reason
+[575.0069134235382080] 2019-04-23 22:22:46,239 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=8nBgXXHvKHU
+[575.0099108219146729] 2019-04-23 22:22:46,242 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[577.8719575405120850] 2019-04-23 22:22:49,104 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=eYEgYVyBDuM": ERROR: eYEgYVyBDuM: "token" parameter not in video info for unknown reason
+[577.8759567737579346] 2019-04-23 22:22:49,108 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=eYEgYVyBDuM
+[577.8789582252502441] 2019-04-23 22:22:49,111 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[581.2410807609558105] 2019-04-23 22:22:52,473 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=I4KXMyb-aGY": ERROR: I4KXMyb-aGY: "token" parameter not in video info for unknown reason
+[581.2440757751464844] 2019-04-23 22:22:52,476 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=I4KXMyb-aGY
+[581.2470734119415283] 2019-04-23 22:22:52,479 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[584.1843969821929932] 2019-04-23 22:22:55,416 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=R7-hFVbDiIo": ERROR: R7-hFVbDiIo: "token" parameter not in video info for unknown reason
+[585.1888642311096191] 2019-04-23 22:22:56,421 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=R7-hFVbDiIo
+[585.5006716251373291] 2019-04-23 22:22:56,732 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[588.5174722671508789] 2019-04-23 22:22:59,749 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=Pkb7d1gdBoM": ERROR: Pkb7d1gdBoM: "token" parameter not in video info for unknown reason
+[588.5244693756103516] 2019-04-23 22:22:59,756 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=Pkb7d1gdBoM
+[588.5294656753540039] 2019-04-23 22:22:59,761 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[591.5277118682861328] 2019-04-23 22:23:02,760 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=eiBinM-f-Pk": ERROR: eiBinM-f-Pk: "token" parameter not in video info for unknown reason
+[591.5317094326019287] 2019-04-23 22:23:02,764 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=eiBinM-f-Pk
+[591.5347075462341309] 2019-04-23 22:23:02,767 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[593.8095216751098633] 2019-04-23 22:23:05,041 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: YlXRq9-0alw: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+[593.8115210533142090] 2019-04-23 22:23:05,043 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=YlXRq9-0alw
+[593.8175632953643799] 2019-04-23 22:23:05,049 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[596.7009966373443604] 2019-04-23 22:23:07,933 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=KfFBdViZHzk": ERROR: KfFBdViZHzk: "token" parameter not in video info for unknown reason
+[596.7339777946472168] 2019-04-23 22:23:07,966 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=KfFBdViZHzk
+[596.7369749546051025] 2019-04-23 22:23:07,969 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[601.0003266334533691] 2019-04-23 22:23:12,232 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=rrMueRMVsTM": ERROR: rrMueRMVsTM: "token" parameter not in video info for unknown reason
+[601.0422973632812500] 2019-04-23 22:23:12,274 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=rrMueRMVsTM
+[601.0722796916961670] 2019-04-23 22:23:12,304 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[603.7942800521850586] 2019-04-23 22:23:15,026 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=ZV1oQiRdoPc": ERROR: ZV1oQiRdoPc: "token" parameter not in video info for unknown reason
+[603.7962782382965088] 2019-04-23 22:23:15,028 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=ZV1oQiRdoPc
+[603.7982785701751709] 2019-04-23 22:23:15,030 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[606.3545773029327393] 2019-04-23 22:23:17,586 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=KGBXVsdY9hw": ERROR: KGBXVsdY9hw: "token" parameter not in video info for unknown reason
+[606.3575754165649414] 2019-04-23 22:23:17,589 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=KGBXVsdY9hw
+[606.3595750331878662] 2019-04-23 22:23:17,591 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[608.9530787467956543] 2019-04-23 22:23:20,185 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=vARpxoSM0kU": ERROR: vARpxoSM0kU: "token" parameter not in video info for unknown reason
+[608.9550781250000000] 2019-04-23 22:23:20,187 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=vARpxoSM0kU
+[608.9570765495300293] 2019-04-23 22:23:20,189 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[611.6989457607269287] 2019-04-23 22:23:22,931 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=LjFSPklTE8w": ERROR: LjFSPklTE8w: "token" parameter not in video info for unknown reason
+[611.7009437084197998] 2019-04-23 22:23:22,933 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=LjFSPklTE8w
+[611.7029411792755127] 2019-04-23 22:23:22,935 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[614.4093141555786133] 2019-04-23 22:23:25,641 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=OyQVjGdJ60g": ERROR: OyQVjGdJ60g: "token" parameter not in video info for unknown reason
+[614.4792709350585938] 2019-04-23 22:23:25,711 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=OyQVjGdJ60g
+[614.4822683334350586] 2019-04-23 22:23:25,714 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[616.9034013748168945] 2019-04-23 22:23:28,135 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=qWG2dsXV5HI": ERROR: qWG2dsXV5HI: "token" parameter not in video info for unknown reason
+[616.9083955287933350] 2019-04-23 22:23:28,140 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=qWG2dsXV5HI
+[616.9103949069976807] 2019-04-23 22:23:28,142 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[619.6443524360656738] 2019-04-23 22:23:30,876 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=in7CifqoM-M": ERROR: in7CifqoM-M: "token" parameter not in video info for unknown reason
+[619.6463506221771240] 2019-04-23 22:23:30,878 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=in7CifqoM-M
+[619.6493482589721680] 2019-04-23 22:23:30,881 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[622.2590951919555664] 2019-04-23 22:23:33,491 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=mgE398yDoPA": ERROR: mgE398yDoPA: "token" parameter not in video info for unknown reason
+[622.2600958347320557] 2019-04-23 22:23:33,492 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=mgE398yDoPA
+[622.2620942592620850] 2019-04-23 22:23:33,494 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[624.9445574283599854] 2019-04-23 22:23:36,176 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=BGBM5vWiBLo": ERROR: BGBM5vWiBLo: "token" parameter not in video info for unknown reason
+[624.9455568790435791] 2019-04-23 22:23:36,177 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=BGBM5vWiBLo
+[624.9475560188293457] 2019-04-23 22:23:36,179 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[627.6327352523803711] 2019-04-23 22:23:38,865 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=slKNBP7VEvI": ERROR: slKNBP7VEvI: "token" parameter not in video info for unknown reason
+[627.6966977119445801] 2019-04-23 22:23:38,929 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=slKNBP7VEvI
+[627.7016932964324951] 2019-04-23 22:23:38,934 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[629.8328998088836670] 2019-04-23 22:23:41,065 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 548 in on_player_finished_playing: Error processing youtube url:
+ERROR: 1DWD_hEz4HI: YouTube said: This video is unavailable.
+[629.8338994979858398] 2019-04-23 22:23:41,066 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=1DWD_hEz4HI
+[629.8358983993530273] 2019-04-23 22:23:41,068 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[632.2184638977050781] 2019-04-23 22:23:43,450 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=AL4Tc7jLuK4": ERROR: AL4Tc7jLuK4: "token" parameter not in video info for unknown reason
+[632.2194583415985107] 2019-04-23 22:23:43,451 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=AL4Tc7jLuK4
+[632.2214567661285400] 2019-04-23 22:23:43,453 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[635.5345873832702637] 2019-04-23 22:23:46,766 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=336OIKnPA54": ERROR: 336OIKnPA54: "token" parameter not in video info for unknown reason
+[635.5375857353210449] 2019-04-23 22:23:46,769 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=336OIKnPA54
+[635.6215338706970215] 2019-04-23 22:23:46,853 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[637.9629681110382080] 2019-04-23 22:23:49,195 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=K5jvUXij7nU": ERROR: K5jvUXij7nU: "token" parameter not in video info for unknown reason
+[637.9739618301391602] 2019-04-23 22:23:49,206 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=K5jvUXij7nU
+[637.9769604206085205] 2019-04-23 22:23:49,209 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[641.0769572257995605] 2019-04-23 22:23:52,309 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=574LrnfW2_s": ERROR: 574LrnfW2_s: "token" parameter not in video info for unknown reason
+[641.1389207839965820] 2019-04-23 22:23:52,371 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=574LrnfW2_s
+[641.1579096317291260] 2019-04-23 22:23:52,390 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[643.9759845733642578] 2019-04-23 22:23:55,208 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=gRnWPnY1dgk": ERROR: gRnWPnY1dgk: "token" parameter not in video info for unknown reason
+[643.9939746856689453] 2019-04-23 22:23:55,226 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=gRnWPnY1dgk
+[644.0039684772491455] 2019-04-23 22:23:55,236 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[647.0572404861450195] 2019-04-23 22:23:58,289 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=9VPfprmtSF4": ERROR: 9VPfprmtSF4: "token" parameter not in video info for unknown reason
+[647.7413992881774902] 2019-04-23 22:23:58,973 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=9VPfprmtSF4
+[648.0372405052185059] 2019-04-23 22:23:59,269 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[651.0942699909210205] 2019-04-23 22:24:02,326 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=jBmxH56XQBw": ERROR: jBmxH56XQBw: "token" parameter not in video info for unknown reason
+[651.1642272472381592] 2019-04-23 22:24:02,396 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=jBmxH56XQBw
+[651.1712212562561035] 2019-04-23 22:24:02,403 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist
+[653.7850408554077148] 2019-04-23 22:24:05,017 - ERROR - musicbot.bot | In bot.py::MainThread(61656), line 552 in on_player_finished_playing: Error processing "https://youtube.com/watch?v=45pBJzi_YaY": ERROR: 45pBJzi_YaY: "token" parameter not in video info for unknown reason
+[653.7940354347229004] 2019-04-23 22:24:05,026 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 353 in remove_from_autoplaylist: Removing unplayable song from session autoplaylist: https://youtube.com/watch?v=45pBJzi_YaY
+[653.8060295581817627] 2019-04-23 22:24:05,038 - INFO - musicbot.bot | In bot.py::MainThread(61656), line 367 in remove_from_autoplaylist: Updating autoplaylist

@@ -1,0 +1,3738 @@
+# Entry removed Tue Apr 23 20:28:44 2019
+# Reason: ERROR: bz_bUjPMAAM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=bz_bUjPMAAM
+
+################################
+
+# Entry removed Tue Apr 23 20:28:47 2019
+# Reason: ERROR: NuK56z2FaK4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=NuK56z2FaK4
+
+################################
+
+# Entry removed Tue Apr 23 20:28:50 2019
+# Reason: ERROR: pkmrSXtSt84: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=pkmrSXtSt84
+
+################################
+
+# Entry removed Tue Apr 23 20:28:52 2019
+# Reason: ERROR: cUDuKLNB8Ec: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=cUDuKLNB8Ec
+
+################################
+
+# Entry removed Tue Apr 23 20:28:54 2019
+# Reason: ERROR: 0HUEiUOCLeI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=0HUEiUOCLeI
+
+################################
+
+# Entry removed Tue Apr 23 20:28:56 2019
+# Reason: ERROR: bw1ArZ3zLDg: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=bw1ArZ3zLDg
+
+################################
+
+# Entry removed Tue Apr 23 20:28:59 2019
+# Reason: ERROR: BVomQtrtMTM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=BVomQtrtMTM
+
+################################
+
+# Entry removed Tue Apr 23 20:29:02 2019
+# Reason: ERROR: j4n7fWjmomA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=j4n7fWjmomA
+
+################################
+
+# Entry removed Tue Apr 23 20:29:04 2019
+# Reason: ERROR: Zmd2nbHP5kQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Zmd2nbHP5kQ
+
+################################
+
+# Entry removed Tue Apr 23 20:29:07 2019
+# Reason: ERROR: 4ACe9IDkJo0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=4ACe9IDkJo0
+
+################################
+
+# Entry removed Tue Apr 23 20:29:10 2019
+# Reason: ERROR: yis_itRsT_8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=yis_itRsT_8
+
+################################
+
+# Entry removed Tue Apr 23 20:29:12 2019
+# Reason: ERROR: z-UJoY5WP5s: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=z-UJoY5WP5s
+
+################################
+
+# Entry removed Tue Apr 23 20:29:15 2019
+# Reason: ERROR: D-CNZxoethA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=D-CNZxoethA
+
+################################
+
+# Entry removed Tue Apr 23 20:29:17 2019
+# Reason: ERROR: DQ47U0sH3hY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=DQ47U0sH3hY
+
+################################
+
+# Entry removed Tue Apr 23 20:29:20 2019
+# Reason: ERROR: sOOebk_dKFo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=sOOebk_dKFo
+
+################################
+
+# Entry removed Tue Apr 23 20:29:23 2019
+# Reason: ERROR: 39b3zjk_hKg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=39b3zjk_hKg
+
+################################
+
+# Entry removed Tue Apr 23 20:29:26 2019
+# Reason: ERROR: gnxbNaW4vDk: YouTube said: The uploader has not made this video available in your country.
+https://youtube.com/watch?v=gnxbNaW4vDk
+
+################################
+
+# Entry removed Tue Apr 23 20:29:28 2019
+# Reason: ERROR: IzIHf1EToTE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=IzIHf1EToTE
+
+################################
+
+# Entry removed Tue Apr 23 20:29:31 2019
+# Reason: ERROR: 2lzD5NTs3l0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=2lzD5NTs3l0
+
+################################
+
+# Entry removed Tue Apr 23 20:29:33 2019
+# Reason: ERROR: jlV3zeWnWZY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=jlV3zeWnWZY
+
+################################
+
+# Entry removed Tue Apr 23 20:29:36 2019
+# Reason: ERROR: RFc-2aNZ6VY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=RFc-2aNZ6VY
+
+################################
+
+# Entry removed Tue Apr 23 20:29:39 2019
+# Reason: ERROR: qYkbTyHXwbs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=qYkbTyHXwbs
+
+################################
+
+# Entry removed Tue Apr 23 20:29:41 2019
+# Reason: ERROR: 2lLmYLw0WRI: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=2lLmYLw0WRI
+
+################################
+
+# Entry removed Tue Apr 23 20:29:43 2019
+# Reason: ERROR: BQX9x6P5w7k: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=BQX9x6P5w7k
+
+################################
+
+# Entry removed Tue Apr 23 20:29:46 2019
+# Reason: ERROR: iywaBOMvYLI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=iywaBOMvYLI
+
+################################
+
+# Entry removed Tue Apr 23 20:29:48 2019
+# Reason: ERROR: bTNTNxZaTp0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=bTNTNxZaTp0
+
+################################
+
+# Entry removed Tue Apr 23 20:29:51 2019
+# Reason: ERROR: 7uy0ldI_1HA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=7uy0ldI_1HA
+
+################################
+
+# Entry removed Tue Apr 23 20:29:53 2019
+# Reason: ERROR: emNahB_96JY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=emNahB_96JY
+
+################################
+
+# Entry removed Tue Apr 23 20:29:56 2019
+# Reason: ERROR: -4vpdkEkup8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=-4vpdkEkup8
+
+################################
+
+# Entry removed Tue Apr 23 20:29:59 2019
+# Reason: ERROR: SiYDJ432b0U: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=SiYDJ432b0U
+
+################################
+
+# Entry removed Tue Apr 23 20:30:01 2019
+# Reason: ERROR: fUja-wrQVgs: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=fUja-wrQVgs
+
+################################
+
+# Entry removed Tue Apr 23 20:30:03 2019
+# Reason: ERROR: O7GroZ60UYc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=O7GroZ60UYc
+
+################################
+
+# Entry removed Tue Apr 23 20:30:05 2019
+# Reason: ERROR: BWrtrK1Q2EQ: YouTube said: This video contains content from WMG, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=BWrtrK1Q2EQ
+
+################################
+
+# Entry removed Tue Apr 23 20:30:08 2019
+# Reason: ERROR: jUqN1Jfw1cA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=jUqN1Jfw1cA
+
+################################
+
+# Entry removed Tue Apr 23 20:30:10 2019
+# Reason: ERROR: 0-yBejAuns4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=0-yBejAuns4
+
+################################
+
+# Entry removed Tue Apr 23 20:30:12 2019
+# Reason: ERROR: Al23Vj-YPn8: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=Al23Vj-YPn8
+
+################################
+
+# Entry removed Tue Apr 23 20:30:15 2019
+# Reason: ERROR: UkLp4S-x5b4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=UkLp4S-x5b4
+
+################################
+
+# Entry removed Tue Apr 23 20:30:17 2019
+# Reason: ERROR: yXK0pZx92MU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=yXK0pZx92MU
+
+################################
+
+# Entry removed Tue Apr 23 20:30:20 2019
+# Reason: ERROR: lAivBjfVH0o: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lAivBjfVH0o
+
+################################
+
+# Entry removed Tue Apr 23 20:30:23 2019
+# Reason: ERROR: 0izjSUqCcSQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=0izjSUqCcSQ
+
+################################
+
+# Entry removed Tue Apr 23 20:30:25 2019
+# Reason: ERROR: d3qSLlk8ruE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=d3qSLlk8ruE
+
+################################
+
+# Entry removed Tue Apr 23 20:30:28 2019
+# Reason: ERROR: g3JyQnYPkZk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=g3JyQnYPkZk
+
+################################
+
+# Entry removed Tue Apr 23 20:30:30 2019
+# Reason: ERROR: x-4O0y3rDW4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=x-4O0y3rDW4
+
+################################
+
+# Entry removed Tue Apr 23 20:30:33 2019
+# Reason: ERROR: 6WjW5orDM2c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=6WjW5orDM2c
+
+################################
+
+# Entry removed Tue Apr 23 20:30:36 2019
+# Reason: ERROR: q1z2BdvHVCk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=q1z2BdvHVCk
+
+################################
+
+# Entry removed Tue Apr 23 20:30:38 2019
+# Reason: ERROR: xZjosn2u1gA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=xZjosn2u1gA
+
+################################
+
+# Entry removed Tue Apr 23 20:30:41 2019
+# Reason: ERROR: sPbi1YWjox4: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=sPbi1YWjox4
+
+################################
+
+# Entry removed Tue Apr 23 20:30:44 2019
+# Reason: ERROR: 8U2rKAnyyDE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=8U2rKAnyyDE
+
+################################
+
+# Entry removed Tue Apr 23 20:30:47 2019
+# Reason: ERROR: 9d4ui9q7eDM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=9d4ui9q7eDM
+
+################################
+
+# Entry removed Tue Apr 23 20:30:50 2019
+# Reason: ERROR: VGA_Y6YZLhM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=VGA_Y6YZLhM
+
+################################
+
+# Entry removed Tue Apr 23 20:30:52 2019
+# Reason: ERROR: RbMS0BzOMV0: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=RbMS0BzOMV0
+
+################################
+
+# Entry removed Tue Apr 23 20:30:55 2019
+# Reason: ERROR: VM2UJ6E5D-U: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=VM2UJ6E5D-U
+
+################################
+
+# Entry removed Tue Apr 23 20:30:57 2019
+# Reason: ERROR: Z590mDXHpLk: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=Z590mDXHpLk
+
+################################
+
+# Entry removed Tue Apr 23 20:30:59 2019
+# Reason: ERROR: iqhN6rvfJt4: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=iqhN6rvfJt4
+
+################################
+
+# Entry removed Tue Apr 23 20:31:01 2019
+# Reason: ERROR: qrVKmTPFYZ8: YouTube said: This video is no longer available due to a copyright claim by Black Sabbath.
+https://youtube.com/watch?v=qrVKmTPFYZ8
+
+################################
+
+# Entry removed Tue Apr 23 20:31:03 2019
+# Reason: ERROR: a1WDW-swiAA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=a1WDW-swiAA
+
+################################
+
+# Entry removed Tue Apr 23 20:31:05 2019
+# Reason: ERROR: tpILJTxT1_s: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=tpILJTxT1_s
+
+################################
+
+# Entry removed Tue Apr 23 20:31:08 2019
+# Reason: ERROR: 3j1U0Io65Ds: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=3j1U0Io65Ds
+
+################################
+
+# Entry removed Tue Apr 23 20:31:11 2019
+# Reason: ERROR: 7toKjKtbeeI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=7toKjKtbeeI
+
+################################
+
+# Entry removed Tue Apr 23 20:31:14 2019
+# Reason: ERROR: pgQF1QznOQ8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=pgQF1QznOQ8
+
+################################
+
+# Entry removed Tue Apr 23 20:31:16 2019
+# Reason: ERROR: GqH21LEmfbQ: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=GqH21LEmfbQ
+
+################################
+
+# Entry removed Tue Apr 23 20:31:19 2019
+# Reason: ERROR: xPpEOUVpxrM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=xPpEOUVpxrM
+
+################################
+
+# Entry removed Tue Apr 23 20:31:22 2019
+# Reason: ERROR: vtgZsq_oUvw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=vtgZsq_oUvw
+
+################################
+
+# Entry removed Tue Apr 23 20:31:25 2019
+# Reason: ERROR: 7tkPp0YO4lw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=7tkPp0YO4lw
+
+################################
+
+# Entry removed Tue Apr 23 20:31:28 2019
+# Reason: ERROR: Bm1NxfevGro: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Bm1NxfevGro
+
+################################
+
+# Entry removed Tue Apr 23 20:31:32 2019
+# Reason: ERROR: ZEBGCOCxLgA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ZEBGCOCxLgA
+
+################################
+
+# Entry removed Tue Apr 23 20:31:35 2019
+# Reason: ERROR: B88mv0dhYwc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=B88mv0dhYwc
+
+################################
+
+# Entry removed Tue Apr 23 20:31:38 2019
+# Reason: ERROR: mS8LvHT_zcQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=mS8LvHT_zcQ
+
+################################
+
+# Entry removed Tue Apr 23 20:31:41 2019
+# Reason: ERROR: vuha_SUwoBU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=vuha_SUwoBU
+
+################################
+
+# Entry removed Tue Apr 23 20:31:43 2019
+# Reason: ERROR: 1JZGFjufJEY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=1JZGFjufJEY
+
+################################
+
+# Entry removed Tue Apr 23 20:31:47 2019
+# Reason: ERROR: rCpoMFbDAdM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=rCpoMFbDAdM
+
+################################
+
+# Entry removed Tue Apr 23 20:31:49 2019
+# Reason: ERROR: TEyndDhVZUg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=TEyndDhVZUg
+
+################################
+
+# Entry removed Tue Apr 23 20:31:52 2019
+# Reason: ERROR: 1AZsIIX4k1c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=1AZsIIX4k1c
+
+################################
+
+# Entry removed Tue Apr 23 20:31:55 2019
+# Reason: ERROR: 8sxAeb9BTKY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=8sxAeb9BTKY
+
+################################
+
+# Entry removed Tue Apr 23 20:31:58 2019
+# Reason: ERROR: mFQ_5dmzFsU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=mFQ_5dmzFsU
+
+################################
+
+# Entry removed Tue Apr 23 20:32:01 2019
+# Reason: ERROR: feQhtf-KJvw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=feQhtf-KJvw
+
+################################
+
+# Entry removed Tue Apr 23 20:32:03 2019
+# Reason: ERROR: jK2aIUmmdP4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=jK2aIUmmdP4
+
+################################
+
+# Entry removed Tue Apr 23 20:32:06 2019
+# Reason: ERROR: JpZ82oU_UQc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=JpZ82oU_UQc
+
+################################
+
+# Entry removed Tue Apr 23 20:32:09 2019
+# Reason: ERROR: iD6k2E61ABY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=iD6k2E61ABY
+
+################################
+
+# Entry removed Tue Apr 23 20:32:11 2019
+# Reason: ERROR: C4RkHNgUcxM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=C4RkHNgUcxM
+
+################################
+
+# Entry removed Tue Apr 23 20:32:14 2019
+# Reason: ERROR: GnqSIa0GNSA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=GnqSIa0GNSA
+
+################################
+
+# Entry removed Tue Apr 23 20:32:17 2019
+# Reason: ERROR: XbGs_qK2PQA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=XbGs_qK2PQA
+
+################################
+
+# Entry removed Tue Apr 23 20:32:19 2019
+# Reason: ERROR: Fq3QmtV8vT0: YouTube said: This video has been removed for violating YouTube's Terms of Service.
+https://youtube.com/watch?v=Fq3QmtV8vT0
+
+################################
+
+# Entry removed Tue Apr 23 20:32:22 2019
+# Reason: ERROR: ZHZxmp88Ts8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ZHZxmp88Ts8
+
+################################
+
+# Entry removed Tue Apr 23 20:32:25 2019
+# Reason: ERROR: joNX2QJ7jto: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=joNX2QJ7jto
+
+################################
+
+# Entry removed Tue Apr 23 20:32:27 2019
+# Reason: ERROR: R27SK1s1FAg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=R27SK1s1FAg
+
+################################
+
+# Entry removed Tue Apr 23 20:32:30 2019
+# Reason: ERROR: Us2ylGAwBnk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Us2ylGAwBnk
+
+################################
+
+# Entry removed Tue Apr 23 20:32:33 2019
+# Reason: ERROR: rKWjsa3fwpE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=rKWjsa3fwpE
+
+################################
+
+# Entry removed Tue Apr 23 20:32:36 2019
+# Reason: ERROR: dnwdYWXuU4s: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=dnwdYWXuU4s
+
+################################
+
+# Entry removed Tue Apr 23 20:32:39 2019
+# Reason: ERROR: DEwk1ZEnBWE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=DEwk1ZEnBWE
+
+################################
+
+# Entry removed Tue Apr 23 20:32:42 2019
+# Reason: ERROR: PFVvgETFoUk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=PFVvgETFoUk
+
+################################
+
+# Entry removed Tue Apr 23 20:32:44 2019
+# Reason: ERROR: St6bhwx7WDo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=St6bhwx7WDo
+
+################################
+
+# Entry removed Tue Apr 23 20:32:47 2019
+# Reason: ERROR: fnQgDgB5kbw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=fnQgDgB5kbw
+
+################################
+
+# Entry removed Tue Apr 23 20:32:50 2019
+# Reason: ERROR: xJzE1m9aELk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=xJzE1m9aELk
+
+################################
+
+# Entry removed Tue Apr 23 20:32:53 2019
+# Reason: ERROR: F-4KiszXxHM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=F-4KiszXxHM
+
+################################
+
+# Entry removed Tue Apr 23 20:32:56 2019
+# Reason: ERROR: _GdOhROdh9c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_GdOhROdh9c
+
+################################
+
+# Entry removed Tue Apr 23 20:32:59 2019
+# Reason: ERROR: 7myLXPUBB_w: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=7myLXPUBB_w
+
+################################
+
+# Entry removed Tue Apr 23 20:33:02 2019
+# Reason: ERROR: Dy4HA3vUv2c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Dy4HA3vUv2c
+
+################################
+
+# Entry removed Tue Apr 23 20:33:05 2019
+# Reason: ERROR: aN_ZCMOx0lo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=aN_ZCMOx0lo
+
+################################
+
+# Entry removed Tue Apr 23 20:33:08 2019
+# Reason: ERROR: AIkM352LpN8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=AIkM352LpN8
+
+################################
+
+# Entry removed Tue Apr 23 20:33:11 2019
+# Reason: ERROR: TxH9Dg1JLio: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=TxH9Dg1JLio
+
+################################
+
+# Entry removed Tue Apr 23 20:33:13 2019
+# Reason: ERROR: 4Rog8XY8oxg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=4Rog8XY8oxg
+
+################################
+
+# Entry removed Tue Apr 23 20:33:16 2019
+# Reason: ERROR: EQY87ZICa9E: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=EQY87ZICa9E
+
+################################
+
+# Entry removed Tue Apr 23 20:33:19 2019
+# Reason: ERROR: qeJ9NEyxk8I: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=qeJ9NEyxk8I
+
+################################
+
+# Entry removed Tue Apr 23 20:33:21 2019
+# Reason: ERROR: lRgGiS2CHec: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lRgGiS2CHec
+
+################################
+
+# Entry removed Tue Apr 23 20:33:24 2019
+# Reason: ERROR: GYhDtr-HTps: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=GYhDtr-HTps
+
+################################
+
+# Entry removed Tue Apr 23 20:33:26 2019
+# Reason: ERROR: iGZC5w_Qosc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=iGZC5w_Qosc
+
+################################
+
+# Entry removed Tue Apr 23 20:33:29 2019
+# Reason: ERROR: n7Vbps6GLoI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=n7Vbps6GLoI
+
+################################
+
+# Entry removed Tue Apr 23 20:33:31 2019
+# Reason: ERROR: NV2qji32jic: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=NV2qji32jic
+
+################################
+
+# Entry removed Tue Apr 23 20:33:34 2019
+# Reason: ERROR: AGB_fNG0R94: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=AGB_fNG0R94
+
+################################
+
+# Entry removed Tue Apr 23 20:33:37 2019
+# Reason: ERROR: Y-fYkVi3HjQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Y-fYkVi3HjQ
+
+################################
+
+# Entry removed Tue Apr 23 20:33:40 2019
+# Reason: ERROR: i_LfbN1EG3c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=i_LfbN1EG3c
+
+################################
+
+# Entry removed Tue Apr 23 20:33:43 2019
+# Reason: ERROR: WUH9NaZI9eA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=WUH9NaZI9eA
+
+################################
+
+# Entry removed Tue Apr 23 20:33:46 2019
+# Reason: ERROR: zpNrrdLo4Wk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=zpNrrdLo4Wk
+
+################################
+
+# Entry removed Tue Apr 23 20:33:48 2019
+# Reason: ERROR: eV7YovopMxw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=eV7YovopMxw
+
+################################
+
+# Entry removed Tue Apr 23 20:33:51 2019
+# Reason: ERROR: K8WlCqZPTeg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=K8WlCqZPTeg
+
+################################
+
+# Entry removed Tue Apr 23 20:33:54 2019
+# Reason: ERROR: ooYjf95rATg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ooYjf95rATg
+
+################################
+
+# Entry removed Tue Apr 23 20:33:57 2019
+# Reason: ERROR: lHEZ3bQAUCU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lHEZ3bQAUCU
+
+################################
+
+# Entry removed Tue Apr 23 20:33:59 2019
+# Reason: ERROR: WbksTnQVqyI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=WbksTnQVqyI
+
+################################
+
+# Entry removed Tue Apr 23 20:34:02 2019
+# Reason: ERROR: t1TcDHrkQYg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=t1TcDHrkQYg
+
+################################
+
+# Entry removed Tue Apr 23 20:34:05 2019
+# Reason: ERROR: tBQemP6AKSg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=tBQemP6AKSg
+
+################################
+
+# Entry removed Tue Apr 23 20:34:08 2019
+# Reason: ERROR: G9tenSy-vzo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=G9tenSy-vzo
+
+################################
+
+# Entry removed Tue Apr 23 20:34:10 2019
+# Reason: ERROR: KX_iUXGk0js: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=KX_iUXGk0js
+
+################################
+
+# Entry removed Tue Apr 23 20:34:13 2019
+# Reason: ERROR: uPqnrQfm8oU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=uPqnrQfm8oU
+
+################################
+
+# Entry removed Tue Apr 23 20:34:16 2019
+# Reason: ERROR: KEVEFgmuBFQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=KEVEFgmuBFQ
+
+################################
+
+# Entry removed Tue Apr 23 20:34:19 2019
+# Reason: ERROR: 53645-blv5o: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=53645-blv5o
+
+################################
+
+# Entry removed Tue Apr 23 20:34:22 2019
+# Reason: ERROR: BNFcrNX_hOE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=BNFcrNX_hOE
+
+################################
+
+# Entry removed Tue Apr 23 20:34:25 2019
+# Reason: ERROR: f2Exzqu2ocs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=f2Exzqu2ocs
+
+################################
+
+# Entry removed Tue Apr 23 20:34:28 2019
+# Reason: ERROR: 5QQ0ebVrLQw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=5QQ0ebVrLQw
+
+################################
+
+# Entry removed Tue Apr 23 20:34:33 2019
+# Reason: ERROR: cElu1JcNqfg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=cElu1JcNqfg
+
+################################
+
+# Entry removed Tue Apr 23 20:34:36 2019
+# Reason: ERROR: 8ZIOkbrX_uU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=8ZIOkbrX_uU
+
+################################
+
+# Entry removed Tue Apr 23 20:34:38 2019
+# Reason: ERROR: BJXfe4eHDnQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=BJXfe4eHDnQ
+
+################################
+
+# Entry removed Tue Apr 23 20:34:41 2019
+# Reason: ERROR: dIs04P-B20Q: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=dIs04P-B20Q
+
+################################
+
+# Entry removed Tue Apr 23 20:34:43 2019
+# Reason: ERROR: TzFZTqIesYM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=TzFZTqIesYM
+
+################################
+
+# Entry removed Tue Apr 23 20:34:46 2019
+# Reason: ERROR: D27zVtVPWnQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=D27zVtVPWnQ
+
+################################
+
+# Entry removed Tue Apr 23 20:34:50 2019
+# Reason: ERROR: ovrGzbsQZqc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ovrGzbsQZqc
+
+################################
+
+# Entry removed Tue Apr 23 20:34:53 2019
+# Reason: ERROR: 8mtA9GvpzwU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=8mtA9GvpzwU
+
+################################
+
+# Entry removed Tue Apr 23 20:34:56 2019
+# Reason: ERROR: 4hAz3oI-VD0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=4hAz3oI-VD0
+
+################################
+
+# Entry removed Tue Apr 23 20:34:58 2019
+# Reason: ERROR: OuJUq58VQXQ: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=OuJUq58VQXQ
+
+################################
+
+# Entry removed Tue Apr 23 20:35:01 2019
+# Reason: ERROR: rgczlrYM4eI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=rgczlrYM4eI
+
+################################
+
+# Entry removed Tue Apr 23 20:35:04 2019
+# Reason: ERROR: N5irNnMNJqk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=N5irNnMNJqk
+
+################################
+
+# Entry removed Tue Apr 23 20:35:07 2019
+# Reason: ERROR: gEhNQGBlxBI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=gEhNQGBlxBI
+
+################################
+
+# Entry removed Tue Apr 23 20:35:10 2019
+# Reason: ERROR: ijlJjrk0rTk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ijlJjrk0rTk
+
+################################
+
+# Entry removed Tue Apr 23 20:35:13 2019
+# Reason: ERROR: 59aXJ8GvMYE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=59aXJ8GvMYE
+
+################################
+
+# Entry removed Tue Apr 23 20:35:17 2019
+# Reason: ERROR: Qq1nGVSRx4g: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Qq1nGVSRx4g
+
+################################
+
+# Entry removed Tue Apr 23 20:35:20 2019
+# Reason: ERROR: DRjOBvnpXVU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=DRjOBvnpXVU
+
+################################
+
+# Entry removed Tue Apr 23 20:35:23 2019
+# Reason: ERROR: p0PlMNt02Ck: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=p0PlMNt02Ck
+
+################################
+
+# Entry removed Tue Apr 23 20:35:25 2019
+# Reason: ERROR: wjKHEXsA7lg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=wjKHEXsA7lg
+
+################################
+
+# Entry removed Tue Apr 23 20:35:28 2019
+# Reason: ERROR: dBgfMPLX4GA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=dBgfMPLX4GA
+
+################################
+
+# Entry removed Tue Apr 23 20:35:31 2019
+# Reason: ERROR: mjwV5w0IrcA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=mjwV5w0IrcA
+
+################################
+
+# Entry removed Tue Apr 23 20:35:33 2019
+# Reason: ERROR: 0BH7XF117Ek: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=0BH7XF117Ek
+
+################################
+
+# Entry removed Tue Apr 23 20:35:35 2019
+# Reason: ERROR: sFz678yh_6U: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=sFz678yh_6U
+
+################################
+
+# Entry removed Tue Apr 23 20:35:38 2019
+# Reason: ERROR: 7BhYmwFSOas: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=7BhYmwFSOas
+
+################################
+
+# Entry removed Tue Apr 23 20:35:41 2019
+# Reason: ERROR: eFTLKWw542g: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=eFTLKWw542g
+
+################################
+
+# Entry removed Tue Apr 23 20:35:44 2019
+# Reason: ERROR: sIPdH7vLmgQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=sIPdH7vLmgQ
+
+################################
+
+# Entry removed Tue Apr 23 20:35:46 2019
+# Reason: ERROR: n1CLmap_CVU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=n1CLmap_CVU
+
+################################
+
+# Entry removed Tue Apr 23 20:35:49 2019
+# Reason: ERROR: 1FhRhzAWzLA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=1FhRhzAWzLA
+
+################################
+
+# Entry removed Tue Apr 23 20:35:53 2019
+# Reason: ERROR: xfEtO5Zs8Zk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=xfEtO5Zs8Zk
+
+################################
+
+# Entry removed Tue Apr 23 20:35:56 2019
+# Reason: ERROR: ZBiA8XvkLoo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ZBiA8XvkLoo
+
+################################
+
+# Entry removed Tue Apr 23 20:35:59 2019
+# Reason: ERROR: T0spkrwl9Qk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=T0spkrwl9Qk
+
+################################
+
+# Entry removed Tue Apr 23 20:36:01 2019
+# Reason: ERROR: cb2w2m1JmCY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=cb2w2m1JmCY
+
+################################
+
+# Entry removed Tue Apr 23 20:36:04 2019
+# Reason: ERROR: 4dOsbsuhYGQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=4dOsbsuhYGQ
+
+################################
+
+# Entry removed Tue Apr 23 20:36:07 2019
+# Reason: ERROR: ztV9Z1T04RE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ztV9Z1T04RE
+
+################################
+
+# Entry removed Tue Apr 23 20:36:10 2019
+# Reason: ERROR: dV0eMaIFlvA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=dV0eMaIFlvA
+
+################################
+
+# Entry removed Tue Apr 23 20:36:13 2019
+# Reason: ERROR: s71Em_Po2ZY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=s71Em_Po2ZY
+
+################################
+
+# Entry removed Tue Apr 23 20:36:16 2019
+# Reason: ERROR: Djcti31JFGg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Djcti31JFGg
+
+################################
+
+# Entry removed Tue Apr 23 20:36:19 2019
+# Reason: ERROR: Z5-rdr0qhWk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Z5-rdr0qhWk
+
+################################
+
+# Entry removed Tue Apr 23 20:36:22 2019
+# Reason: ERROR: h04CH9YZcpI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=h04CH9YZcpI
+
+################################
+
+# Entry removed Tue Apr 23 20:36:25 2019
+# Reason: ERROR: jvEQD2pzPBY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=jvEQD2pzPBY
+
+################################
+
+# Entry removed Tue Apr 23 20:36:28 2019
+# Reason: ERROR: P1YBW-rj_jk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=P1YBW-rj_jk
+
+################################
+
+# Entry removed Tue Apr 23 20:36:31 2019
+# Reason: ERROR: LP5JaEJ5jHY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=LP5JaEJ5jHY
+
+################################
+
+# Entry removed Tue Apr 23 20:36:33 2019
+# Reason: ERROR: deB_u-to-IE: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=deB_u-to-IE
+
+################################
+
+# Entry removed Tue Apr 23 20:36:36 2019
+# Reason: ERROR: BAMQ9QBgSdc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=BAMQ9QBgSdc
+
+################################
+
+# Entry removed Tue Apr 23 20:36:38 2019
+# Reason: ERROR: uKpK8RbGlO4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=uKpK8RbGlO4
+
+################################
+
+# Entry removed Tue Apr 23 20:36:41 2019
+# Reason: ERROR: O6oA9MBb1-Q: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=O6oA9MBb1-Q
+
+################################
+
+# Entry removed Tue Apr 23 20:36:46 2019
+# Reason: ERROR: nOnrDAjdr7s: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=nOnrDAjdr7s
+
+################################
+
+# Entry removed Tue Apr 23 20:36:49 2019
+# Reason: ERROR: _Gs3fg_WsEg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_Gs3fg_WsEg
+
+################################
+
+# Entry removed Tue Apr 23 20:36:53 2019
+# Reason: ERROR: Ae0nwSv6cTU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Ae0nwSv6cTU
+
+################################
+
+# Entry removed Tue Apr 23 20:36:55 2019
+# Reason: ERROR: UbHmYTbHlmA: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=UbHmYTbHlmA
+
+################################
+
+# Entry removed Tue Apr 23 20:36:59 2019
+# Reason: ERROR: _cb0O-pRdF0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_cb0O-pRdF0
+
+################################
+
+# Entry removed Tue Apr 23 20:37:02 2019
+# Reason: ERROR: X8Ooy2mzrRk: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=X8Ooy2mzrRk
+
+################################
+
+# Entry removed Tue Apr 23 20:37:06 2019
+# Reason: ERROR: -9r7ezjl1us: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=-9r7ezjl1us
+
+################################
+
+# Entry removed Tue Apr 23 20:37:09 2019
+# Reason: ERROR: f4ERRGkGtpo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=f4ERRGkGtpo
+
+################################
+
+# Entry removed Tue Apr 23 20:37:11 2019
+# Reason: ERROR: rLwZ0QnwUBg: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=rLwZ0QnwUBg
+
+################################
+
+# Entry removed Tue Apr 23 20:37:14 2019
+# Reason: ERROR: pvkxxaFaT5Y: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=pvkxxaFaT5Y
+
+################################
+
+# Entry removed Tue Apr 23 20:37:17 2019
+# Reason: ERROR: ixZDTiXiHsc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ixZDTiXiHsc
+
+################################
+
+# Entry removed Tue Apr 23 20:37:21 2019
+# Reason: ERROR: AE0GC4tGZW0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=AE0GC4tGZW0
+
+################################
+
+# Entry removed Tue Apr 23 20:37:24 2019
+# Reason: ERROR: 7K0akU-Rdv8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=7K0akU-Rdv8
+
+################################
+
+# Entry removed Tue Apr 23 20:37:28 2019
+# Reason: ERROR: 5tp8iVL9LPc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=5tp8iVL9LPc
+
+################################
+
+# Entry removed Tue Apr 23 20:37:31 2019
+# Reason: ERROR: lB8Nkn3Xjes: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lB8Nkn3Xjes
+
+################################
+
+# Entry removed Tue Apr 23 20:37:33 2019
+# Reason: ERROR: jl067ilGr54: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=jl067ilGr54
+
+################################
+
+# Entry removed Tue Apr 23 20:37:36 2019
+# Reason: ERROR: 7lI2HST_lvA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=7lI2HST_lvA
+
+################################
+
+# Entry removed Tue Apr 23 20:37:39 2019
+# Reason: ERROR: ijPWBALdFcY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ijPWBALdFcY
+
+################################
+
+# Entry removed Tue Apr 23 20:37:41 2019
+# Reason: ERROR: xlAwFV0clcM: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=xlAwFV0clcM
+
+################################
+
+# Entry removed Tue Apr 23 20:37:43 2019
+# Reason: ERROR: mzGwHKIYo9c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=mzGwHKIYo9c
+
+################################
+
+# Entry removed Tue Apr 23 20:37:46 2019
+# Reason: ERROR: y3MeFrri9YI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=y3MeFrri9YI
+
+################################
+
+# Entry removed Tue Apr 23 20:37:50 2019
+# Reason: ERROR: 81S2mEHkTwg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=81S2mEHkTwg
+
+################################
+
+# Entry removed Tue Apr 23 20:37:53 2019
+# Reason: ERROR: p0AGYvMFdNo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=p0AGYvMFdNo
+
+################################
+
+# Entry removed Tue Apr 23 20:37:55 2019
+# Reason: ERROR: Gu2pVPWGYMQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Gu2pVPWGYMQ
+
+################################
+
+# Entry removed Tue Apr 23 20:37:58 2019
+# Reason: ERROR: KxadblDT6zI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=KxadblDT6zI
+
+################################
+
+# Entry removed Tue Apr 23 20:38:00 2019
+# Reason: ERROR: 4WPCBieSESI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=4WPCBieSESI
+
+################################
+
+# Entry removed Tue Apr 23 20:38:04 2019
+# Reason: ERROR: SBjQ9tuuTJQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=SBjQ9tuuTJQ
+
+################################
+
+# Entry removed Tue Apr 23 20:38:07 2019
+# Reason: ERROR: FYyCbKZIkgc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=FYyCbKZIkgc
+
+################################
+
+# Entry removed Tue Apr 23 20:38:10 2019
+# Reason: ERROR: bogGO4UUxvo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=bogGO4UUxvo
+
+################################
+
+# Entry removed Tue Apr 23 20:38:13 2019
+# Reason: ERROR: _3vpiTgG59A: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_3vpiTgG59A
+
+################################
+
+# Entry removed Tue Apr 23 20:38:16 2019
+# Reason: ERROR: yvPr9YV7-Xw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=yvPr9YV7-Xw
+
+################################
+
+# Entry removed Tue Apr 23 20:38:20 2019
+# Reason: ERROR: qTPqCUyLLhA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=qTPqCUyLLhA
+
+################################
+
+# Entry removed Tue Apr 23 20:38:22 2019
+# Reason: ERROR: 8nW1c_li-uw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=8nW1c_li-uw
+
+################################
+
+# Entry removed Tue Apr 23 20:38:26 2019
+# Reason: ERROR: ytQ5CYE1VZw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ytQ5CYE1VZw
+
+################################
+
+# Entry removed Tue Apr 23 20:38:28 2019
+# Reason: ERROR: zE-qxNVoUSo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=zE-qxNVoUSo
+
+################################
+
+# Entry removed Tue Apr 23 20:38:31 2019
+# Reason: ERROR: PobrSpMwKk4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=PobrSpMwKk4
+
+################################
+
+# Entry removed Tue Apr 23 20:38:34 2019
+# Reason: ERROR: Tp8h7L8Fi0o: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Tp8h7L8Fi0o
+
+################################
+
+# Entry removed Tue Apr 23 20:38:36 2019
+# Reason: ERROR: CZMWszd5SRk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=CZMWszd5SRk
+
+################################
+
+# Entry removed Tue Apr 23 20:38:39 2019
+# Reason: ERROR: bLo5pj04wag: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=bLo5pj04wag
+
+################################
+
+# Entry removed Tue Apr 23 20:38:42 2019
+# Reason: ERROR: ddaKazRHyzU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ddaKazRHyzU
+
+################################
+
+# Entry removed Tue Apr 23 20:38:44 2019
+# Reason: ERROR: Th3ycKQV_4k: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Th3ycKQV_4k
+
+################################
+
+# Entry removed Tue Apr 23 20:38:46 2019
+# Reason: ERROR: BpDnB_9fPbU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=BpDnB_9fPbU
+
+################################
+
+# Entry removed Tue Apr 23 20:38:49 2019
+# Reason: ERROR: 3MutXUvS37k: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=3MutXUvS37k
+
+################################
+
+# Entry removed Tue Apr 23 20:38:51 2019
+# Reason: ERROR: HLzqjmoZZAc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=HLzqjmoZZAc
+
+################################
+
+# Entry removed Tue Apr 23 20:38:54 2019
+# Reason: ERROR: OLqNFjLsJLk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=OLqNFjLsJLk
+
+################################
+
+# Entry removed Tue Apr 23 20:39:00 2019
+# Reason: ERROR: MbXWrmQW-OE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=MbXWrmQW-OE
+
+################################
+
+# Entry removed Tue Apr 23 20:39:03 2019
+# Reason: ERROR: d3Oc26AFDdU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=d3Oc26AFDdU
+
+################################
+
+# Entry removed Tue Apr 23 20:39:05 2019
+# Reason: ERROR: -U98qkjbYek: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=-U98qkjbYek
+
+################################
+
+# Entry removed Tue Apr 23 20:39:08 2019
+# Reason: ERROR: aDlNMawir4o: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=aDlNMawir4o
+
+################################
+
+# Entry removed Tue Apr 23 20:39:11 2019
+# Reason: ERROR: RPfFhfSuUZ4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=RPfFhfSuUZ4
+
+################################
+
+# Entry removed Tue Apr 23 20:39:14 2019
+# Reason: ERROR: 4mHW3eGF3Mw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=4mHW3eGF3Mw
+
+################################
+
+# Entry removed Tue Apr 23 20:39:16 2019
+# Reason: ERROR: 3kOWGBDJALY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=3kOWGBDJALY
+
+################################
+
+# Entry removed Tue Apr 23 20:39:19 2019
+# Reason: ERROR: 34thwBLMe4g: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=34thwBLMe4g
+
+################################
+
+# Entry removed Tue Apr 23 20:39:21 2019
+# Reason: ERROR: K_PQ4fRQ5Kc: YouTube said: This video is no longer available due to a copyright claim by WMG.
+https://youtube.com/watch?v=K_PQ4fRQ5Kc
+
+################################
+
+# Entry removed Tue Apr 23 20:39:24 2019
+# Reason: ERROR: CWeXOm49kE0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=CWeXOm49kE0
+
+################################
+
+# Entry removed Tue Apr 23 20:39:26 2019
+# Reason: ERROR: k8JN4T8p8Pg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=k8JN4T8p8Pg
+
+################################
+
+# Entry removed Tue Apr 23 20:39:29 2019
+# Reason: ERROR: xRkczJrr5mI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=xRkczJrr5mI
+
+################################
+
+# Entry removed Tue Apr 23 20:39:32 2019
+# Reason: ERROR: ATc8Jefnl-U: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ATc8Jefnl-U
+
+################################
+
+# Entry removed Tue Apr 23 20:39:35 2019
+# Reason: ERROR: MwSkC85TDgY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=MwSkC85TDgY
+
+################################
+
+# Entry removed Tue Apr 23 20:39:37 2019
+# Reason: ERROR: 0Uc3ZrmhDN4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=0Uc3ZrmhDN4
+
+################################
+
+# Entry removed Tue Apr 23 20:39:40 2019
+# Reason: ERROR: YjRbmtrDJI4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=YjRbmtrDJI4
+
+################################
+
+# Entry removed Tue Apr 23 20:39:43 2019
+# Reason: ERROR: QIFVzhWRjDM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=QIFVzhWRjDM
+
+################################
+
+# Entry removed Tue Apr 23 20:39:45 2019
+# Reason: ERROR: Q1kf-OJdvb4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Q1kf-OJdvb4
+
+################################
+
+# Entry removed Tue Apr 23 20:39:49 2019
+# Reason: ERROR: DFdHhYha9t4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=DFdHhYha9t4
+
+################################
+
+# Entry removed Tue Apr 23 20:39:52 2019
+# Reason: ERROR: nf0_s-Ijl3A: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=nf0_s-Ijl3A
+
+################################
+
+# Entry removed Tue Apr 23 20:39:54 2019
+# Reason: ERROR: lLkFCavQGrc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lLkFCavQGrc
+
+################################
+
+# Entry removed Tue Apr 23 20:39:57 2019
+# Reason: ERROR: 1CcKbWhEluE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=1CcKbWhEluE
+
+################################
+
+# Entry removed Tue Apr 23 20:40:00 2019
+# Reason: ERROR: YkADj0TPrJA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=YkADj0TPrJA
+
+################################
+
+# Entry removed Tue Apr 23 20:40:03 2019
+# Reason: ERROR: K1b8AhIsSYQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=K1b8AhIsSYQ
+
+################################
+
+# Entry removed Tue Apr 23 20:40:07 2019
+# Reason: ERROR: wltiSg6O0PY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=wltiSg6O0PY
+
+################################
+
+# Entry removed Tue Apr 23 20:40:12 2019
+# Reason: ERROR: QsRMlR0CUt8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=QsRMlR0CUt8
+
+################################
+
+# Entry removed Tue Apr 23 20:40:15 2019
+# Reason: ERROR: UaerdFeq32E: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=UaerdFeq32E
+
+################################
+
+# Entry removed Tue Apr 23 20:40:17 2019
+# Reason: ERROR: It42TsD7_sI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=It42TsD7_sI
+
+################################
+
+# Entry removed Tue Apr 23 20:40:20 2019
+# Reason: ERROR: zSQp7YOPdJ8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=zSQp7YOPdJ8
+
+################################
+
+# Entry removed Tue Apr 23 20:40:22 2019
+# Reason: ERROR: yQ84j8HuojY: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=yQ84j8HuojY
+
+################################
+
+# Entry removed Tue Apr 23 20:40:24 2019
+# Reason: ERROR: iB2Z2DY17yQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=iB2Z2DY17yQ
+
+################################
+
+# Entry removed Tue Apr 23 20:40:27 2019
+# Reason: ERROR: lxBCEuHQVms: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lxBCEuHQVms
+
+################################
+
+# Entry removed Tue Apr 23 20:40:30 2019
+# Reason: ERROR: JfxM1QCtvb4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=JfxM1QCtvb4
+
+################################
+
+# Entry removed Tue Apr 23 20:40:33 2019
+# Reason: ERROR: B0x1zzQBeX0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=B0x1zzQBeX0
+
+################################
+
+# Entry removed Tue Apr 23 20:40:38 2019
+# Reason: ERROR: ow4i6I-OptM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ow4i6I-OptM
+
+################################
+
+# Entry removed Tue Apr 23 20:40:41 2019
+# Reason: ERROR: czd0Er-_qI8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=czd0Er-_qI8
+
+################################
+
+# Entry removed Tue Apr 23 20:40:43 2019
+# Reason: ERROR: q0rYiIiJusQ: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=q0rYiIiJusQ
+
+################################
+
+# Entry removed Tue Apr 23 20:40:46 2019
+# Reason: ERROR: 3K_0GhyaTJc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=3K_0GhyaTJc
+
+################################
+
+# Entry removed Tue Apr 23 20:40:50 2019
+# Reason: ERROR: aw-PTVoblRk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=aw-PTVoblRk
+
+################################
+
+# Entry removed Tue Apr 23 20:40:53 2019
+# Reason: ERROR: HP6qPkJq2hM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=HP6qPkJq2hM
+
+################################
+
+# Entry removed Tue Apr 23 20:40:56 2019
+# Reason: ERROR: YmtHdBPzi_w: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=YmtHdBPzi_w
+
+################################
+
+# Entry removed Tue Apr 23 20:40:59 2019
+# Reason: ERROR: lRt54xjIq7w: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lRt54xjIq7w
+
+################################
+
+# Entry removed Tue Apr 23 20:41:02 2019
+# Reason: ERROR: 0twahcMCgss: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=0twahcMCgss
+
+################################
+
+# Entry removed Tue Apr 23 20:41:05 2019
+# Reason: ERROR: Q8XkLrErSHw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Q8XkLrErSHw
+
+################################
+
+# Entry removed Tue Apr 23 20:41:08 2019
+# Reason: ERROR: hQsozlJv20k: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=hQsozlJv20k
+
+################################
+
+# Entry removed Tue Apr 23 20:41:12 2019
+# Reason: ERROR: XZy5dQH0xZs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=XZy5dQH0xZs
+
+################################
+
+# Entry removed Tue Apr 23 20:41:15 2019
+# Reason: ERROR: 4CZR50b3A9g: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=4CZR50b3A9g
+
+################################
+
+# Entry removed Tue Apr 23 20:41:18 2019
+# Reason: ERROR: zLcyg4Tq5uY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=zLcyg4Tq5uY
+
+################################
+
+# Entry removed Tue Apr 23 20:41:22 2019
+# Reason: ERROR: PGpgdQc4e0c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=PGpgdQc4e0c
+
+################################
+
+# Entry removed Tue Apr 23 20:41:25 2019
+# Reason: ERROR: L0VPVawpN8E: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=L0VPVawpN8E
+
+################################
+
+# Entry removed Tue Apr 23 20:41:27 2019
+# Reason: ERROR: 6VxoXn-0Ezs: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=6VxoXn-0Ezs
+
+################################
+
+# Entry removed Tue Apr 23 20:41:30 2019
+# Reason: ERROR: YBlrSdfUgPI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=YBlrSdfUgPI
+
+################################
+
+# Entry removed Tue Apr 23 20:41:33 2019
+# Reason: ERROR: U400PmUJWXs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=U400PmUJWXs
+
+################################
+
+# Entry removed Tue Apr 23 20:41:36 2019
+# Reason: ERROR: SMwT2V6TUSA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=SMwT2V6TUSA
+
+################################
+
+# Entry removed Tue Apr 23 20:41:39 2019
+# Reason: ERROR: EhGEGIBGLu8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=EhGEGIBGLu8
+
+################################
+
+# Entry removed Tue Apr 23 20:41:42 2019
+# Reason: ERROR: ifwhV0FJiaY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ifwhV0FJiaY
+
+################################
+
+# Entry removed Tue Apr 23 22:01:58 2019
+# Reason: ERROR: lZbgyKJkHxQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lZbgyKJkHxQ
+
+################################
+
+# Entry removed Tue Apr 23 22:02:00 2019
+# Reason: ERROR: zOXaouay5Jk: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=zOXaouay5Jk
+
+################################
+
+# Entry removed Tue Apr 23 22:02:04 2019
+# Reason: ERROR: I5z2--4O7sA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=I5z2--4O7sA
+
+################################
+
+# Entry removed Tue Apr 23 22:02:06 2019
+# Reason: ERROR: P5OQIm2MI1s: YouTube said: This video is not available.
+https://youtube.com/watch?v=P5OQIm2MI1s
+
+################################
+
+# Entry removed Tue Apr 23 22:02:09 2019
+# Reason: ERROR: uijnGTq4wgI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=uijnGTq4wgI
+
+################################
+
+# Entry removed Tue Apr 23 22:02:11 2019
+# Reason: ERROR: BPwZaQfoIbU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=BPwZaQfoIbU
+
+################################
+
+# Entry removed Tue Apr 23 22:02:14 2019
+# Reason: ERROR: FZWHVo-t2Vo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=FZWHVo-t2Vo
+
+################################
+
+# Entry removed Tue Apr 23 22:02:16 2019
+# Reason: ERROR: US7wauHA8MI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=US7wauHA8MI
+
+################################
+
+# Entry removed Tue Apr 23 22:02:19 2019
+# Reason: ERROR: 9TL7Eo04a3A: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=9TL7Eo04a3A
+
+################################
+
+# Entry removed Tue Apr 23 22:02:22 2019
+# Reason: ERROR: g-jsW61e_-w: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=g-jsW61e_-w
+
+################################
+
+# Entry removed Tue Apr 23 22:02:25 2019
+# Reason: ERROR: 2sh0ENwPGXw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=2sh0ENwPGXw
+
+################################
+
+# Entry removed Tue Apr 23 22:02:27 2019
+# Reason: ERROR: jqkPqfOFmbY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=jqkPqfOFmbY
+
+################################
+
+# Entry removed Tue Apr 23 22:02:30 2019
+# Reason: ERROR: hgKDu5pp_fU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=hgKDu5pp_fU
+
+################################
+
+# Entry removed Tue Apr 23 22:02:32 2019
+# Reason: ERROR: _O-wMuGt63c: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=_O-wMuGt63c
+
+################################
+
+# Entry removed Tue Apr 23 22:02:35 2019
+# Reason: ERROR: 6nRy10_iOPc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=6nRy10_iOPc
+
+################################
+
+# Entry removed Tue Apr 23 22:02:37 2019
+# Reason: ERROR: Gdu8M2val_w: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Gdu8M2val_w
+
+################################
+
+# Entry removed Tue Apr 23 22:02:40 2019
+# Reason: ERROR: _ud3mOQxWYo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_ud3mOQxWYo
+
+################################
+
+# Entry removed Tue Apr 23 22:02:42 2019
+# Reason: ERROR: ixA3SzX6uUc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ixA3SzX6uUc
+
+################################
+
+# Entry removed Tue Apr 23 22:02:45 2019
+# Reason: ERROR: lS7_tcwsj4E: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lS7_tcwsj4E
+
+################################
+
+# Entry removed Tue Apr 23 22:02:47 2019
+# Reason: ERROR: EpiWHALFH-U: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=EpiWHALFH-U
+
+################################
+
+# Entry removed Tue Apr 23 22:02:50 2019
+# Reason: ERROR: nTE4IS0NXxo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=nTE4IS0NXxo
+
+################################
+
+# Entry removed Tue Apr 23 22:02:52 2019
+# Reason: ERROR: FCbWLSZrZfw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=FCbWLSZrZfw
+
+################################
+
+# Entry removed Tue Apr 23 22:02:55 2019
+# Reason: ERROR: sNAQ6Y7VXsQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=sNAQ6Y7VXsQ
+
+################################
+
+# Entry removed Tue Apr 23 22:02:58 2019
+# Reason: ERROR: SkWOaOAd924: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=SkWOaOAd924
+
+################################
+
+# Entry removed Tue Apr 23 22:03:00 2019
+# Reason: ERROR: nVDQfKk_E2g: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=nVDQfKk_E2g
+
+################################
+
+# Entry removed Tue Apr 23 22:03:03 2019
+# Reason: ERROR: pfHM9HyRnRc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=pfHM9HyRnRc
+
+################################
+
+# Entry removed Tue Apr 23 22:03:05 2019
+# Reason: ERROR: 8p9jSRxguAA: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=8p9jSRxguAA
+
+################################
+
+# Entry removed Tue Apr 23 22:03:07 2019
+# Reason: ERROR: k4bBu9HD_Qo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=k4bBu9HD_Qo
+
+################################
+
+# Entry removed Tue Apr 23 22:03:10 2019
+# Reason: ERROR: FsQjo7Z11_Q: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=FsQjo7Z11_Q
+
+################################
+
+# Entry removed Tue Apr 23 22:03:13 2019
+# Reason: ERROR: yzsWc5mYWGI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=yzsWc5mYWGI
+
+################################
+
+# Entry removed Tue Apr 23 22:03:15 2019
+# Reason: ERROR: ShK_Tj-Ee3Y: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ShK_Tj-Ee3Y
+
+################################
+
+# Entry removed Tue Apr 23 22:03:18 2019
+# Reason: ERROR: xYtBAbqJO9k: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=xYtBAbqJO9k
+
+################################
+
+# Entry removed Tue Apr 23 22:03:21 2019
+# Reason: ERROR: 9pUKEqpHGA8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=9pUKEqpHGA8
+
+################################
+
+# Entry removed Tue Apr 23 22:03:23 2019
+# Reason: ERROR: wIjUY3pjN8E: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=wIjUY3pjN8E
+
+################################
+
+# Entry removed Tue Apr 23 22:03:25 2019
+# Reason: ERROR: pJyQpAiMXkg: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=pJyQpAiMXkg
+
+################################
+
+# Entry removed Tue Apr 23 22:03:28 2019
+# Reason: ERROR: Bj6TiOJi1tI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Bj6TiOJi1tI
+
+################################
+
+# Entry removed Tue Apr 23 22:03:30 2019
+# Reason: ERROR: zY9es8R4PD4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=zY9es8R4PD4
+
+################################
+
+# Entry removed Tue Apr 23 22:03:33 2019
+# Reason: ERROR: Y46QKkIjZwc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Y46QKkIjZwc
+
+################################
+
+# Entry removed Tue Apr 23 22:03:36 2019
+# Reason: ERROR: Us0EU-yXAlg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Us0EU-yXAlg
+
+################################
+
+# Entry removed Tue Apr 23 22:03:38 2019
+# Reason: ERROR: omowNsoplUM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=omowNsoplUM
+
+################################
+
+# Entry removed Tue Apr 23 22:03:40 2019
+# Reason: ERROR: qoQLxO54JZY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=qoQLxO54JZY
+
+################################
+
+# Entry removed Tue Apr 23 22:03:43 2019
+# Reason: ERROR: _sC6epraFkY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_sC6epraFkY
+
+################################
+
+# Entry removed Tue Apr 23 22:03:46 2019
+# Reason: ERROR: pZQI1jgOC_g: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=pZQI1jgOC_g
+
+################################
+
+# Entry removed Tue Apr 23 22:03:49 2019
+# Reason: ERROR: Ygf_yk5QJXY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Ygf_yk5QJXY
+
+################################
+
+# Entry removed Tue Apr 23 22:03:53 2019
+# Reason: ERROR: zJZu54gtmNc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=zJZu54gtmNc
+
+################################
+
+# Entry removed Tue Apr 23 22:03:55 2019
+# Reason: ERROR: QNfQq_z255c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=QNfQq_z255c
+
+################################
+
+# Entry removed Tue Apr 23 22:03:58 2019
+# Reason: ERROR: TF5IETKtvGg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=TF5IETKtvGg
+
+################################
+
+# Entry removed Tue Apr 23 22:04:00 2019
+# Reason: ERROR: dqn3PF_DcSg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=dqn3PF_DcSg
+
+################################
+
+# Entry removed Tue Apr 23 22:04:03 2019
+# Reason: ERROR: 3jkb1dN3Ot8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=3jkb1dN3Ot8
+
+################################
+
+# Entry removed Tue Apr 23 22:04:05 2019
+# Reason: ERROR: LO3uqkaFRkY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=LO3uqkaFRkY
+
+################################
+
+# Entry removed Tue Apr 23 22:04:16 2019
+# Reason: ERROR: tNRAuzj2ImA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=tNRAuzj2ImA
+
+################################
+
+# Entry removed Tue Apr 23 22:04:18 2019
+# Reason: ERROR: A2B5clYLtOc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=A2B5clYLtOc
+
+################################
+
+# Entry removed Tue Apr 23 22:04:21 2019
+# Reason: ERROR: _L2vJEb6lVE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_L2vJEb6lVE
+
+################################
+
+# Entry removed Tue Apr 23 22:04:23 2019
+# Reason: ERROR: IAmgTNATJkk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=IAmgTNATJkk
+
+################################
+
+# Entry removed Tue Apr 23 22:04:25 2019
+# Reason: ERROR: 3gmmi2SvMMk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=3gmmi2SvMMk
+
+################################
+
+# Entry removed Tue Apr 23 22:04:28 2019
+# Reason: ERROR: l2gGXlW6wSY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=l2gGXlW6wSY
+
+################################
+
+# Entry removed Tue Apr 23 22:04:31 2019
+# Reason: ERROR: 10yrPDf92hY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=10yrPDf92hY
+
+################################
+
+# Entry removed Tue Apr 23 22:04:33 2019
+# Reason: ERROR: OzvasAJIHb4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=OzvasAJIHb4
+
+################################
+
+# Entry removed Tue Apr 23 22:04:36 2019
+# Reason: ERROR: o59U6zVVnkU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=o59U6zVVnkU
+
+################################
+
+# Entry removed Tue Apr 23 22:04:39 2019
+# Reason: ERROR: qHFxncb1gRY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=qHFxncb1gRY
+
+################################
+
+# Entry removed Tue Apr 23 22:04:41 2019
+# Reason: ERROR: BQYXn1DP38s: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=BQYXn1DP38s
+
+################################
+
+# Entry removed Tue Apr 23 22:04:43 2019
+# Reason: ERROR: 4PvN7ujfj2w: YouTube said: This video is no longer available due to a copyright claim by Chicago Music, Inc..
+https://youtube.com/watch?v=4PvN7ujfj2w
+
+################################
+
+# Entry removed Tue Apr 23 22:04:46 2019
+# Reason: ERROR: 9MKJNZS3kGk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=9MKJNZS3kGk
+
+################################
+
+# Entry removed Tue Apr 23 22:04:48 2019
+# Reason: ERROR: QyPR77rg1to: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=QyPR77rg1to
+
+################################
+
+# Entry removed Tue Apr 23 22:04:51 2019
+# Reason: ERROR: FYh29RMpmAc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=FYh29RMpmAc
+
+################################
+
+# Entry removed Tue Apr 23 22:04:53 2019
+# Reason: ERROR: vyGzPmgR1QY: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=vyGzPmgR1QY
+
+################################
+
+# Entry removed Tue Apr 23 22:04:56 2019
+# Reason: ERROR: 7-RlcOPNb6A: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=7-RlcOPNb6A
+
+################################
+
+# Entry removed Tue Apr 23 22:04:59 2019
+# Reason: ERROR: vFUJrg5GAvs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=vFUJrg5GAvs
+
+################################
+
+# Entry removed Tue Apr 23 22:05:01 2019
+# Reason: ERROR: BLR_wRa0hXo: YouTube said: The uploader has not made this video available.
+https://youtube.com/watch?v=BLR_wRa0hXo
+
+################################
+
+# Entry removed Tue Apr 23 22:05:04 2019
+# Reason: ERROR: lQ4IRzwi_Gg: YouTube said: This video is no longer available due to a copyright claim by BSP Ltd.
+https://youtube.com/watch?v=lQ4IRzwi_Gg
+
+################################
+
+# Entry removed Tue Apr 23 22:05:06 2019
+# Reason: ERROR: cSOnn1gspjs: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=cSOnn1gspjs
+
+################################
+
+# Entry removed Tue Apr 23 22:05:08 2019
+# Reason: ERROR: HmroWIcCNUI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=HmroWIcCNUI
+
+################################
+
+# Entry removed Tue Apr 23 22:05:11 2019
+# Reason: ERROR: CQkVPtWjfUk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=CQkVPtWjfUk
+
+################################
+
+# Entry removed Tue Apr 23 22:05:13 2019
+# Reason: ERROR: Pk7b7YC93qQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Pk7b7YC93qQ
+
+################################
+
+# Entry removed Tue Apr 23 22:05:16 2019
+# Reason: ERROR: e5MAg_yWsq8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=e5MAg_yWsq8
+
+################################
+
+# Entry removed Tue Apr 23 22:05:18 2019
+# Reason: ERROR: Sx3Tv0ESXOM: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=Sx3Tv0ESXOM
+
+################################
+
+# Entry removed Tue Apr 23 22:05:20 2019
+# Reason: ERROR: YNXq6Jxp3dM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=YNXq6Jxp3dM
+
+################################
+
+# Entry removed Tue Apr 23 22:05:23 2019
+# Reason: ERROR: -WR0o7NWUy8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=-WR0o7NWUy8
+
+################################
+
+# Entry removed Tue Apr 23 22:05:25 2019
+# Reason: ERROR: p5rQHoaQpTw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=p5rQHoaQpTw
+
+################################
+
+# Entry removed Tue Apr 23 22:05:27 2019
+# Reason: ERROR: wRZ6QyjGIEM: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=wRZ6QyjGIEM
+
+################################
+
+# Entry removed Tue Apr 23 22:05:30 2019
+# Reason: ERROR: NhK8Ehv6aPI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=NhK8Ehv6aPI
+
+################################
+
+# Entry removed Tue Apr 23 22:05:32 2019
+# Reason: ERROR: ONoNjKtf3z8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ONoNjKtf3z8
+
+################################
+
+# Entry removed Tue Apr 23 22:05:35 2019
+# Reason: ERROR: ZqJiXLJs_Pg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ZqJiXLJs_Pg
+
+################################
+
+# Entry removed Tue Apr 23 22:05:37 2019
+# Reason: ERROR: 9jK-NcRmVcw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=9jK-NcRmVcw
+
+################################
+
+# Entry removed Tue Apr 23 22:05:41 2019
+# Reason: ERROR: ltGltaUs_S4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ltGltaUs_S4
+
+################################
+
+# Entry removed Tue Apr 23 22:05:43 2019
+# Reason: ERROR: LdG3aC95P7w: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=LdG3aC95P7w
+
+################################
+
+# Entry removed Tue Apr 23 22:05:46 2019
+# Reason: ERROR: _Vq6NevcLOQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_Vq6NevcLOQ
+
+################################
+
+# Entry removed Tue Apr 23 22:05:49 2019
+# Reason: ERROR: jvPIdPSmf2A: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=jvPIdPSmf2A
+
+################################
+
+# Entry removed Tue Apr 23 22:05:51 2019
+# Reason: ERROR: VM83BpH2_3U: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=VM83BpH2_3U
+
+################################
+
+# Entry removed Tue Apr 23 22:05:53 2019
+# Reason: ERROR: tNR7822K_40: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=tNR7822K_40
+
+################################
+
+# Entry removed Tue Apr 23 22:05:56 2019
+# Reason: ERROR: c29bgvu4egI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=c29bgvu4egI
+
+################################
+
+# Entry removed Tue Apr 23 22:05:58 2019
+# Reason: ERROR: JiqNwliG0jo: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=JiqNwliG0jo
+
+################################
+
+# Entry removed Tue Apr 23 22:06:00 2019
+# Reason: ERROR: XektDORSOQs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=XektDORSOQs
+
+################################
+
+# Entry removed Tue Apr 23 22:06:03 2019
+# Reason: ERROR: FMUf8K-dkIk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=FMUf8K-dkIk
+
+################################
+
+# Entry removed Tue Apr 23 22:06:05 2019
+# Reason: ERROR: s8XIgR5OGJc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=s8XIgR5OGJc
+
+################################
+
+# Entry removed Tue Apr 23 22:06:08 2019
+# Reason: ERROR: KJdO6aFlKCU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=KJdO6aFlKCU
+
+################################
+
+# Entry removed Tue Apr 23 22:06:10 2019
+# Reason: ERROR: 6_YG9XBX04Y: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=6_YG9XBX04Y
+
+################################
+
+# Entry removed Tue Apr 23 22:06:12 2019
+# Reason: ERROR: cd1HS2Yf7Yw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=cd1HS2Yf7Yw
+
+################################
+
+# Entry removed Tue Apr 23 22:06:14 2019
+# Reason: ERROR: d-DKo_pDaNE: YouTube said: This video is no longer available due to a copyright claim by ForwardXP, Inc..
+https://youtube.com/watch?v=d-DKo_pDaNE
+
+################################
+
+# Entry removed Tue Apr 23 22:06:17 2019
+# Reason: ERROR: EK4Wd8mD8CA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=EK4Wd8mD8CA
+
+################################
+
+# Entry removed Tue Apr 23 22:06:21 2019
+# Reason: ERROR: 1VaEdKwXJhM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=1VaEdKwXJhM
+
+################################
+
+# Entry removed Tue Apr 23 22:06:24 2019
+# Reason: ERROR: lSOMf8VTqnw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lSOMf8VTqnw
+
+################################
+
+# Entry removed Tue Apr 23 22:06:26 2019
+# Reason: ERROR: iqtmUC6L9fc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=iqtmUC6L9fc
+
+################################
+
+# Entry removed Tue Apr 23 22:06:29 2019
+# Reason: ERROR: RnDwKSAp-Qs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=RnDwKSAp-Qs
+
+################################
+
+# Entry removed Tue Apr 23 22:06:31 2019
+# Reason: ERROR: QsLAm_nrSyY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=QsLAm_nrSyY
+
+################################
+
+# Entry removed Tue Apr 23 22:06:33 2019
+# Reason: ERROR: fpDa0kaV6hQ: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=fpDa0kaV6hQ
+
+################################
+
+# Entry removed Tue Apr 23 22:06:35 2019
+# Reason: ERROR: quMlRhlVR3I: YouTube said: This video contains content from Believe Music, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=quMlRhlVR3I
+
+################################
+
+# Entry removed Tue Apr 23 22:06:38 2019
+# Reason: ERROR: -yfI6KAPTPU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=-yfI6KAPTPU
+
+################################
+
+# Entry removed Tue Apr 23 22:06:41 2019
+# Reason: ERROR: XxMf4BdVq_g: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=XxMf4BdVq_g
+
+################################
+
+# Entry removed Tue Apr 23 22:06:43 2019
+# Reason: ERROR: x0f5dcOWsNU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=x0f5dcOWsNU
+
+################################
+
+# Entry removed Tue Apr 23 22:06:45 2019
+# Reason: ERROR: rwYU8jq6Qw0: YouTube said: This video is not available.
+https://youtube.com/watch?v=rwYU8jq6Qw0
+
+################################
+
+# Entry removed Tue Apr 23 22:06:48 2019
+# Reason: ERROR: zGERGT06AsM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=zGERGT06AsM
+
+################################
+
+# Entry removed Tue Apr 23 22:06:50 2019
+# Reason: ERROR: l3zhOoDKVvs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=l3zhOoDKVvs
+
+################################
+
+# Entry removed Tue Apr 23 22:06:53 2019
+# Reason: ERROR: P5ChKb_9JoY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=P5ChKb_9JoY
+
+################################
+
+# Entry removed Tue Apr 23 22:06:55 2019
+# Reason: ERROR: I4keD5Qvya4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=I4keD5Qvya4
+
+################################
+
+# Entry removed Tue Apr 23 22:06:58 2019
+# Reason: ERROR: HAIDqt2aUek: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=HAIDqt2aUek
+
+################################
+
+# Entry removed Tue Apr 23 22:07:00 2019
+# Reason: ERROR: xl7Hd2r0LOs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=xl7Hd2r0LOs
+
+################################
+
+# Entry removed Tue Apr 23 22:07:03 2019
+# Reason: ERROR: -lxIzlHAJTw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=-lxIzlHAJTw
+
+################################
+
+# Entry removed Tue Apr 23 22:07:06 2019
+# Reason: ERROR: tyrUaI4KBRk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=tyrUaI4KBRk
+
+################################
+
+# Entry removed Tue Apr 23 22:07:08 2019
+# Reason: ERROR: FQ2yXWi0ppw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=FQ2yXWi0ppw
+
+################################
+
+# Entry removed Tue Apr 23 22:07:11 2019
+# Reason: ERROR: C9FNqHTq8aU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=C9FNqHTq8aU
+
+################################
+
+# Entry removed Tue Apr 23 22:07:13 2019
+# Reason: ERROR: GWVd1Db16uE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=GWVd1Db16uE
+
+################################
+
+# Entry removed Tue Apr 23 22:07:16 2019
+# Reason: ERROR: ddQpf8m4ij0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ddQpf8m4ij0
+
+################################
+
+# Entry removed Tue Apr 23 22:07:19 2019
+# Reason: ERROR: aRh-vBOS-dU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=aRh-vBOS-dU
+
+################################
+
+# Entry removed Tue Apr 23 22:07:21 2019
+# Reason: ERROR: fvgf0yPAqGI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=fvgf0yPAqGI
+
+################################
+
+# Entry removed Tue Apr 23 22:07:23 2019
+# Reason: ERROR: _H1ktl3onMQ: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=_H1ktl3onMQ
+
+################################
+
+# Entry removed Tue Apr 23 22:07:26 2019
+# Reason: ERROR: 7UAWVM5aMUw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=7UAWVM5aMUw
+
+################################
+
+# Entry removed Tue Apr 23 22:07:28 2019
+# Reason: ERROR: NF2ok3ktsl4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=NF2ok3ktsl4
+
+################################
+
+# Entry removed Tue Apr 23 22:07:31 2019
+# Reason: ERROR: _jU2V8sT_pE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_jU2V8sT_pE
+
+################################
+
+# Entry removed Tue Apr 23 22:07:34 2019
+# Reason: ERROR: ZhcjZjLOv38: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ZhcjZjLOv38
+
+################################
+
+# Entry removed Tue Apr 23 22:07:36 2019
+# Reason: ERROR: P2LDMT7DsJ8: YouTube said: This video contains content from Three Hundred, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=P2LDMT7DsJ8
+
+################################
+
+# Entry removed Tue Apr 23 22:07:38 2019
+# Reason: ERROR: _KMywQHeDWI: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=_KMywQHeDWI
+
+################################
+
+# Entry removed Tue Apr 23 22:07:40 2019
+# Reason: ERROR: 5Unwj0PFwf4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=5Unwj0PFwf4
+
+################################
+
+# Entry removed Tue Apr 23 22:07:43 2019
+# Reason: ERROR: lTpaBK5HYz4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lTpaBK5HYz4
+
+################################
+
+# Entry removed Tue Apr 23 22:07:45 2019
+# Reason: ERROR: fKb0Sc2lYVU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=fKb0Sc2lYVU
+
+################################
+
+# Entry removed Tue Apr 23 22:07:48 2019
+# Reason: ERROR: LE_Lrs8LomE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=LE_Lrs8LomE
+
+################################
+
+# Entry removed Tue Apr 23 22:07:50 2019
+# Reason: ERROR: xvIaD14LsAs: YouTube said: The uploader has not made this video available.
+https://youtube.com/watch?v=xvIaD14LsAs
+
+################################
+
+# Entry removed Tue Apr 23 22:07:53 2019
+# Reason: ERROR: aOwYA_vEZYo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=aOwYA_vEZYo
+
+################################
+
+# Entry removed Tue Apr 23 22:07:55 2019
+# Reason: ERROR: 0yQyjcpnx3g: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=0yQyjcpnx3g
+
+################################
+
+# Entry removed Tue Apr 23 22:14:44 2019
+# Reason: ERROR: MRHojNbDEUg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=MRHojNbDEUg
+
+################################
+
+# Entry removed Tue Apr 23 22:14:47 2019
+# Reason: ERROR: usXhiWE2Uc0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=usXhiWE2Uc0
+
+################################
+
+# Entry removed Tue Apr 23 22:14:49 2019
+# Reason: ERROR: 2rxWPEdYCnI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=2rxWPEdYCnI
+
+################################
+
+# Entry removed Tue Apr 23 22:14:52 2019
+# Reason: ERROR: 2MferjKXc1c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=2MferjKXc1c
+
+################################
+
+# Entry removed Tue Apr 23 22:14:55 2019
+# Reason: ERROR: _ILsdcs__ME: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_ILsdcs__ME
+
+################################
+
+# Entry removed Tue Apr 23 22:14:57 2019
+# Reason: ERROR: TYRDgd3Tb44: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=TYRDgd3Tb44
+
+################################
+
+# Entry removed Tue Apr 23 22:15:00 2019
+# Reason: ERROR: -uEkDyHp4vA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=-uEkDyHp4vA
+
+################################
+
+# Entry removed Tue Apr 23 22:15:02 2019
+# Reason: ERROR: A_E-QcfWwSs: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=A_E-QcfWwSs
+
+################################
+
+# Entry removed Tue Apr 23 22:15:05 2019
+# Reason: ERROR: nujTVzx3hQU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=nujTVzx3hQU
+
+################################
+
+# Entry removed Tue Apr 23 22:15:08 2019
+# Reason: ERROR: B7xai5u_tnk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=B7xai5u_tnk
+
+################################
+
+# Entry removed Tue Apr 23 22:15:10 2019
+# Reason: ERROR: Gwfm9wuIj40: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Gwfm9wuIj40
+
+################################
+
+# Entry removed Tue Apr 23 22:15:13 2019
+# Reason: ERROR: d01XRSB-7dA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=d01XRSB-7dA
+
+################################
+
+# Entry removed Tue Apr 23 22:15:16 2019
+# Reason: ERROR: IKKXdjRXsXQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=IKKXdjRXsXQ
+
+################################
+
+# Entry removed Tue Apr 23 22:15:18 2019
+# Reason: ERROR: 0_xZt5rt4u0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=0_xZt5rt4u0
+
+################################
+
+# Entry removed Tue Apr 23 22:15:21 2019
+# Reason: ERROR: K_h1geOaLvY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=K_h1geOaLvY
+
+################################
+
+# Entry removed Tue Apr 23 22:15:23 2019
+# Reason: ERROR: pTBQRFWiiHo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=pTBQRFWiiHo
+
+################################
+
+# Entry removed Tue Apr 23 22:15:33 2019
+# Reason: ERROR: ZaLI1pRL11Y: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ZaLI1pRL11Y
+
+################################
+
+# Entry removed Tue Apr 23 22:15:36 2019
+# Reason: ERROR: BUV2sRIcnqw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=BUV2sRIcnqw
+
+################################
+
+# Entry removed Tue Apr 23 22:15:38 2019
+# Reason: ERROR: raNGeq3_DtM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=raNGeq3_DtM
+
+################################
+
+# Entry removed Tue Apr 23 22:15:41 2019
+# Reason: ERROR: TMZi25Pq3T8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=TMZi25Pq3T8
+
+################################
+
+# Entry removed Tue Apr 23 22:15:44 2019
+# Reason: ERROR: jmwjpHJHolM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=jmwjpHJHolM
+
+################################
+
+# Entry removed Tue Apr 23 22:15:47 2019
+# Reason: ERROR: OSPbX0lkTmQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=OSPbX0lkTmQ
+
+################################
+
+# Entry removed Tue Apr 23 22:15:50 2019
+# Reason: ERROR: r4byIiHc5Eg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=r4byIiHc5Eg
+
+################################
+
+# Entry removed Tue Apr 23 22:15:53 2019
+# Reason: ERROR: 6ul-cZyuYq4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=6ul-cZyuYq4
+
+################################
+
+# Entry removed Tue Apr 23 22:15:55 2019
+# Reason: ERROR: v5a0YGaVS0I: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=v5a0YGaVS0I
+
+################################
+
+# Entry removed Tue Apr 23 22:15:58 2019
+# Reason: ERROR: C0j6pe043L4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=C0j6pe043L4
+
+################################
+
+# Entry removed Tue Apr 23 22:16:00 2019
+# Reason: ERROR: BJxGx2IIIwU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=BJxGx2IIIwU
+
+################################
+
+# Entry removed Tue Apr 23 22:16:03 2019
+# Reason: ERROR: 1MR5xe1z-eU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=1MR5xe1z-eU
+
+################################
+
+# Entry removed Tue Apr 23 22:16:06 2019
+# Reason: ERROR: kmI_VYPXub0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=kmI_VYPXub0
+
+################################
+
+# Entry removed Tue Apr 23 22:16:08 2019
+# Reason: ERROR: dXpFEgi43lU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=dXpFEgi43lU
+
+################################
+
+# Entry removed Tue Apr 23 22:16:11 2019
+# Reason: ERROR: iPe3LT37h-Y: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=iPe3LT37h-Y
+
+################################
+
+# Entry removed Tue Apr 23 22:16:13 2019
+# Reason: ERROR: -pbsYf4Dc7w: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=-pbsYf4Dc7w
+
+################################
+
+# Entry removed Tue Apr 23 22:16:16 2019
+# Reason: ERROR: Nrx6JIdMB8Y: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Nrx6JIdMB8Y
+
+################################
+
+# Entry removed Tue Apr 23 22:16:19 2019
+# Reason: ERROR: fJT3b4urwcU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=fJT3b4urwcU
+
+################################
+
+# Entry removed Tue Apr 23 22:16:21 2019
+# Reason: ERROR: QBXrhgg9s0c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=QBXrhgg9s0c
+
+################################
+
+# Entry removed Tue Apr 23 22:16:23 2019
+# Reason: ERROR: IJ5jIOl957M: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=IJ5jIOl957M
+
+################################
+
+# Entry removed Tue Apr 23 22:16:26 2019
+# Reason: ERROR: IrVnm66joQk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=IrVnm66joQk
+
+################################
+
+# Entry removed Tue Apr 23 22:16:28 2019
+# Reason: ERROR: ltrMfT4Qz5Y: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ltrMfT4Qz5Y
+
+################################
+
+# Entry removed Tue Apr 23 22:16:31 2019
+# Reason: ERROR: wA1ZelIbUfI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=wA1ZelIbUfI
+
+################################
+
+# Entry removed Tue Apr 23 22:16:33 2019
+# Reason: ERROR: Iaa03itxNZ0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Iaa03itxNZ0
+
+################################
+
+# Entry removed Tue Apr 23 22:16:36 2019
+# Reason: ERROR: SW9H1b7zXUY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=SW9H1b7zXUY
+
+################################
+
+# Entry removed Tue Apr 23 22:16:39 2019
+# Reason: ERROR: ckt4ScASUhg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ckt4ScASUhg
+
+################################
+
+# Entry removed Tue Apr 23 22:16:41 2019
+# Reason: ERROR: NlpgFuhpgmk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=NlpgFuhpgmk
+
+################################
+
+# Entry removed Tue Apr 23 22:16:44 2019
+# Reason: ERROR: C-o8EeITzYM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=C-o8EeITzYM
+
+################################
+
+# Entry removed Tue Apr 23 22:16:46 2019
+# Reason: ERROR: aWBtpBwzzdM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=aWBtpBwzzdM
+
+################################
+
+# Entry removed Tue Apr 23 22:16:49 2019
+# Reason: ERROR: QrV61ATP3Ec: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=QrV61ATP3Ec
+
+################################
+
+# Entry removed Tue Apr 23 22:16:52 2019
+# Reason: ERROR: 6WEHRveRhU4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=6WEHRveRhU4
+
+################################
+
+# Entry removed Tue Apr 23 22:16:54 2019
+# Reason: ERROR: W6CjO0H2j0s: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=W6CjO0H2j0s
+
+################################
+
+# Entry removed Tue Apr 23 22:16:57 2019
+# Reason: ERROR: NSPv6Fa0cyY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=NSPv6Fa0cyY
+
+################################
+
+# Entry removed Tue Apr 23 22:17:00 2019
+# Reason: ERROR: -w2m-TeLi6I: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=-w2m-TeLi6I
+
+################################
+
+# Entry removed Tue Apr 23 22:17:03 2019
+# Reason: ERROR: f0mSDdncUVw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=f0mSDdncUVw
+
+################################
+
+# Entry removed Tue Apr 23 22:17:05 2019
+# Reason: ERROR: yhPNZKdVRh8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=yhPNZKdVRh8
+
+################################
+
+# Entry removed Tue Apr 23 22:17:09 2019
+# Reason: ERROR: GaxEm9MPlzM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=GaxEm9MPlzM
+
+################################
+
+# Entry removed Tue Apr 23 22:17:11 2019
+# Reason: ERROR: yf9OAFML_Eg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=yf9OAFML_Eg
+
+################################
+
+# Entry removed Tue Apr 23 22:17:14 2019
+# Reason: ERROR: 9K09Ra2l0G8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=9K09Ra2l0G8
+
+################################
+
+# Entry removed Tue Apr 23 22:17:15 2019
+# Reason: ERROR: ZDwotNLyz10: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=ZDwotNLyz10
+
+################################
+
+# Entry removed Tue Apr 23 22:17:18 2019
+# Reason: ERROR: 3ZlDZPYzfm4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=3ZlDZPYzfm4
+
+################################
+
+# Entry removed Tue Apr 23 22:17:20 2019
+# Reason: ERROR: lRGPbaFy8hw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=lRGPbaFy8hw
+
+################################
+
+# Entry removed Tue Apr 23 22:17:23 2019
+# Reason: ERROR: K8_xAAX92BE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=K8_xAAX92BE
+
+################################
+
+# Entry removed Tue Apr 23 22:17:26 2019
+# Reason: ERROR: 5hd53EIKRXI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=5hd53EIKRXI
+
+################################
+
+# Entry removed Tue Apr 23 22:17:28 2019
+# Reason: ERROR: o0vDydAHGp0: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=o0vDydAHGp0
+
+################################
+
+# Entry removed Tue Apr 23 22:17:30 2019
+# Reason: ERROR: 44PO8jPGvsE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=44PO8jPGvsE
+
+################################
+
+# Entry removed Tue Apr 23 22:17:33 2019
+# Reason: ERROR: ayE6Shlv598: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ayE6Shlv598
+
+################################
+
+# Entry removed Tue Apr 23 22:17:36 2019
+# Reason: ERROR: 9rixtkYjbRQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=9rixtkYjbRQ
+
+################################
+
+# Entry removed Tue Apr 23 22:17:38 2019
+# Reason: ERROR: buadfz2qcbY: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=buadfz2qcbY
+
+################################
+
+# Entry removed Tue Apr 23 22:17:40 2019
+# Reason: ERROR: gbw62iCsS34: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=gbw62iCsS34
+
+################################
+
+# Entry removed Tue Apr 23 22:17:42 2019
+# Reason: ERROR: 5RoUHTB8Ivc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=5RoUHTB8Ivc
+
+################################
+
+# Entry removed Tue Apr 23 22:17:45 2019
+# Reason: ERROR: pk5tpGclppc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=pk5tpGclppc
+
+################################
+
+# Entry removed Tue Apr 23 22:17:48 2019
+# Reason: ERROR: LatorN4P9aA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=LatorN4P9aA
+
+################################
+
+# Entry removed Tue Apr 23 22:17:50 2019
+# Reason: ERROR: g2rdrNONy7k: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=g2rdrNONy7k
+
+################################
+
+# Entry removed Tue Apr 23 22:17:52 2019
+# Reason: ERROR: 2X_2IdybTV0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=2X_2IdybTV0
+
+################################
+
+# Entry removed Tue Apr 23 22:17:59 2019
+# Reason: ERROR: 94M_tkjf-JA: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=94M_tkjf-JA
+
+################################
+
+# Entry removed Tue Apr 23 22:18:02 2019
+# Reason: ERROR: p1Y-rfbzmgY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=p1Y-rfbzmgY
+
+################################
+
+# Entry removed Tue Apr 23 22:18:04 2019
+# Reason: ERROR: oew35i9czi8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=oew35i9czi8
+
+################################
+
+# Entry removed Tue Apr 23 22:18:08 2019
+# Reason: ERROR: VRa_PwL2aws: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=VRa_PwL2aws
+
+################################
+
+# Entry removed Tue Apr 23 22:18:09 2019
+# Reason: ERROR: bNCT6pA5I9A: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=bNCT6pA5I9A
+
+################################
+
+# Entry removed Tue Apr 23 22:18:12 2019
+# Reason: ERROR: 7wRHBLwpASw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=7wRHBLwpASw
+
+################################
+
+# Entry removed Tue Apr 23 22:18:14 2019
+# Reason: ERROR: 0guABiTAbBk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=0guABiTAbBk
+
+################################
+
+# Entry removed Tue Apr 23 22:18:17 2019
+# Reason: ERROR: khby51sf82s: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=khby51sf82s
+
+################################
+
+# Entry removed Tue Apr 23 22:18:20 2019
+# Reason: ERROR: ux9vr4xfWj4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ux9vr4xfWj4
+
+################################
+
+# Entry removed Tue Apr 23 22:18:22 2019
+# Reason: ERROR: q0tnCdJQwTE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=q0tnCdJQwTE
+
+################################
+
+# Entry removed Tue Apr 23 22:18:25 2019
+# Reason: ERROR: 2SYYM78rjYQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=2SYYM78rjYQ
+
+################################
+
+# Entry removed Tue Apr 23 22:18:27 2019
+# Reason: ERROR: 9uwEAugeH8w: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=9uwEAugeH8w
+
+################################
+
+# Entry removed Tue Apr 23 22:18:30 2019
+# Reason: ERROR: myUuXffyu_k: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=myUuXffyu_k
+
+################################
+
+# Entry removed Tue Apr 23 22:18:32 2019
+# Reason: ERROR: KUBw0B6RdBQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=KUBw0B6RdBQ
+
+################################
+
+# Entry removed Tue Apr 23 22:18:35 2019
+# Reason: ERROR: jQH0GPL33uc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=jQH0GPL33uc
+
+################################
+
+# Entry removed Tue Apr 23 22:18:37 2019
+# Reason: ERROR: KUwjNBjqR-c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=KUwjNBjqR-c
+
+################################
+
+# Entry removed Tue Apr 23 22:18:39 2019
+# Reason: ERROR: gqI-6xag8Mg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=gqI-6xag8Mg
+
+################################
+
+# Entry removed Tue Apr 23 22:18:42 2019
+# Reason: ERROR: 9meo3vazXcw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=9meo3vazXcw
+
+################################
+
+# Entry removed Tue Apr 23 22:18:45 2019
+# Reason: ERROR: J9nMlGRDXlw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=J9nMlGRDXlw
+
+################################
+
+# Entry removed Tue Apr 23 22:18:47 2019
+# Reason: ERROR: 3_-a9nVZYjk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=3_-a9nVZYjk
+
+################################
+
+# Entry removed Tue Apr 23 22:18:50 2019
+# Reason: ERROR: E2JQxgffxKg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=E2JQxgffxKg
+
+################################
+
+# Entry removed Tue Apr 23 22:18:52 2019
+# Reason: ERROR: bbw1r32MJpY: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=bbw1r32MJpY
+
+################################
+
+# Entry removed Tue Apr 23 22:18:55 2019
+# Reason: ERROR: gFccdvKehQI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=gFccdvKehQI
+
+################################
+
+# Entry removed Tue Apr 23 22:18:57 2019
+# Reason: ERROR: QdGD3Ukb3Q0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=QdGD3Ukb3Q0
+
+################################
+
+# Entry removed Tue Apr 23 22:19:00 2019
+# Reason: ERROR: UA2XIWZxMKM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=UA2XIWZxMKM
+
+################################
+
+# Entry removed Tue Apr 23 22:19:02 2019
+# Reason: ERROR: -oVW8gcse4g: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=-oVW8gcse4g
+
+################################
+
+# Entry removed Tue Apr 23 22:19:05 2019
+# Reason: ERROR: R0H4mL3OW-4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=R0H4mL3OW-4
+
+################################
+
+# Entry removed Tue Apr 23 22:19:07 2019
+# Reason: ERROR: KCy7lLQwToI: YouTube said: This video contains content from SME, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=KCy7lLQwToI
+
+################################
+
+# Entry removed Tue Apr 23 22:19:10 2019
+# Reason: ERROR: 3IHWKU9V1lA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=3IHWKU9V1lA
+
+################################
+
+# Entry removed Tue Apr 23 22:19:14 2019
+# Reason: ERROR: ZfNR98ajB1U: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ZfNR98ajB1U
+
+################################
+
+# Entry removed Tue Apr 23 22:19:16 2019
+# Reason: ERROR: zSAJ0l4OBHM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=zSAJ0l4OBHM
+
+################################
+
+# Entry removed Tue Apr 23 22:19:19 2019
+# Reason: ERROR: 71tyUqMZOSc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=71tyUqMZOSc
+
+################################
+
+# Entry removed Tue Apr 23 22:19:21 2019
+# Reason: ERROR: YfScJUuSV68: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=YfScJUuSV68
+
+################################
+
+# Entry removed Tue Apr 23 22:19:23 2019
+# Reason: ERROR: -kAsZVn44aI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=-kAsZVn44aI
+
+################################
+
+# Entry removed Tue Apr 23 22:19:26 2019
+# Reason: ERROR: 4Yi9fb4pyTc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=4Yi9fb4pyTc
+
+################################
+
+# Entry removed Tue Apr 23 22:19:28 2019
+# Reason: ERROR: ZbHJHPTikQA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ZbHJHPTikQA
+
+################################
+
+# Entry removed Tue Apr 23 22:19:31 2019
+# Reason: ERROR: oQ3C8fjqu_A: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=oQ3C8fjqu_A
+
+################################
+
+# Entry removed Tue Apr 23 22:19:33 2019
+# Reason: ERROR: Ai4kVwg1kkc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Ai4kVwg1kkc
+
+################################
+
+# Entry removed Tue Apr 23 22:19:36 2019
+# Reason: ERROR: DI9weHFUtuk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=DI9weHFUtuk
+
+################################
+
+# Entry removed Tue Apr 23 22:19:39 2019
+# Reason: ERROR: MV0F_XiR48Q: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=MV0F_XiR48Q
+
+################################
+
+# Entry removed Tue Apr 23 22:19:41 2019
+# Reason: ERROR: 6VQJHSnGIXk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=6VQJHSnGIXk
+
+################################
+
+# Entry removed Tue Apr 23 22:19:43 2019
+# Reason: ERROR: 5tfZAyNYWN4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=5tfZAyNYWN4
+
+################################
+
+# Entry removed Tue Apr 23 22:19:46 2019
+# Reason: ERROR: qebEy8p6pAY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=qebEy8p6pAY
+
+################################
+
+# Entry removed Tue Apr 23 22:19:49 2019
+# Reason: ERROR: gmBRRaqGYNw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=gmBRRaqGYNw
+
+################################
+
+# Entry removed Tue Apr 23 22:19:51 2019
+# Reason: ERROR: rivFCwwvoh8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=rivFCwwvoh8
+
+################################
+
+# Entry removed Tue Apr 23 22:19:53 2019
+# Reason: ERROR: pcGGfojS58U: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=pcGGfojS58U
+
+################################
+
+# Entry removed Tue Apr 23 22:19:56 2019
+# Reason: ERROR: YjRWditGKRY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=YjRWditGKRY
+
+################################
+
+# Entry removed Tue Apr 23 22:19:58 2019
+# Reason: ERROR: nf0oXY4nDxE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=nf0oXY4nDxE
+
+################################
+
+# Entry removed Tue Apr 23 22:20:01 2019
+# Reason: ERROR: ibjNly0E_gk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ibjNly0E_gk
+
+################################
+
+# Entry removed Tue Apr 23 22:20:04 2019
+# Reason: ERROR: PL5ZyYJBU4c: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=PL5ZyYJBU4c
+
+################################
+
+# Entry removed Tue Apr 23 22:20:07 2019
+# Reason: ERROR: ycslsuleRCA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ycslsuleRCA
+
+################################
+
+# Entry removed Tue Apr 23 22:20:09 2019
+# Reason: ERROR: oxKCPjcvbys: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=oxKCPjcvbys
+
+################################
+
+# Entry removed Tue Apr 23 22:20:12 2019
+# Reason: ERROR: EjP1w3MIZsg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=EjP1w3MIZsg
+
+################################
+
+# Entry removed Tue Apr 23 22:20:15 2019
+# Reason: ERROR: UwuDhK_EV5k: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=UwuDhK_EV5k
+
+################################
+
+# Entry removed Tue Apr 23 22:20:18 2019
+# Reason: ERROR: m3auI7AYoZA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=m3auI7AYoZA
+
+################################
+
+# Entry removed Tue Apr 23 22:20:23 2019
+# Reason: ERROR: jId1L0gmoDY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=jId1L0gmoDY
+
+################################
+
+# Entry removed Tue Apr 23 22:20:25 2019
+# Reason: ERROR: hGxUXFlSvbU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=hGxUXFlSvbU
+
+################################
+
+# Entry removed Tue Apr 23 22:20:27 2019
+# Reason: ERROR: FGT67EzVcfs: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=FGT67EzVcfs
+
+################################
+
+# Entry removed Tue Apr 23 22:20:30 2019
+# Reason: ERROR: RkqdK0Yiyh8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=RkqdK0Yiyh8
+
+################################
+
+# Entry removed Tue Apr 23 22:20:32 2019
+# Reason: ERROR: zpzOFpPum6w: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=zpzOFpPum6w
+
+################################
+
+# Entry removed Tue Apr 23 22:20:34 2019
+# Reason: ERROR: 1ewkF_Al52o: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=1ewkF_Al52o
+
+################################
+
+# Entry removed Tue Apr 23 22:20:37 2019
+# Reason: ERROR: UyNllqk-4iM: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=UyNllqk-4iM
+
+################################
+
+# Entry removed Tue Apr 23 22:20:39 2019
+# Reason: ERROR: v0g1xzCpEOM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=v0g1xzCpEOM
+
+################################
+
+# Entry removed Tue Apr 23 22:20:42 2019
+# Reason: ERROR: c2orBsXp4HM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=c2orBsXp4HM
+
+################################
+
+# Entry removed Tue Apr 23 22:20:45 2019
+# Reason: ERROR: hf4IxNNiqbU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=hf4IxNNiqbU
+
+################################
+
+# Entry removed Tue Apr 23 22:20:47 2019
+# Reason: ERROR: x_P5smsopK0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=x_P5smsopK0
+
+################################
+
+# Entry removed Tue Apr 23 22:20:50 2019
+# Reason: ERROR: siMFORx8uO8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=siMFORx8uO8
+
+################################
+
+# Entry removed Tue Apr 23 22:20:52 2019
+# Reason: ERROR: _yQl3C52Smw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_yQl3C52Smw
+
+################################
+
+# Entry removed Tue Apr 23 22:20:55 2019
+# Reason: ERROR: v6UZTw1uHmk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=v6UZTw1uHmk
+
+################################
+
+# Entry removed Tue Apr 23 22:20:58 2019
+# Reason: ERROR: _FrOQC-zEog: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_FrOQC-zEog
+
+################################
+
+# Entry removed Tue Apr 23 22:21:00 2019
+# Reason: ERROR: FKsfvx5h_jg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=FKsfvx5h_jg
+
+################################
+
+# Entry removed Tue Apr 23 22:21:03 2019
+# Reason: ERROR: DLokeU1Ck-Q: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=DLokeU1Ck-Q
+
+################################
+
+# Entry removed Tue Apr 23 22:21:06 2019
+# Reason: ERROR: GVYl_hiD1oQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=GVYl_hiD1oQ
+
+################################
+
+# Entry removed Tue Apr 23 22:21:09 2019
+# Reason: ERROR: IwSTe9uit48: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=IwSTe9uit48
+
+################################
+
+# Entry removed Tue Apr 23 22:21:11 2019
+# Reason: ERROR: 3LRmrpUV6iQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=3LRmrpUV6iQ
+
+################################
+
+# Entry removed Tue Apr 23 22:21:14 2019
+# Reason: ERROR: rOuF3k_-asA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=rOuF3k_-asA
+
+################################
+
+# Entry removed Tue Apr 23 22:21:16 2019
+# Reason: ERROR: ZBsFntczDoM: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=ZBsFntczDoM
+
+################################
+
+# Entry removed Tue Apr 23 22:21:18 2019
+# Reason: ERROR: Y9rxeyzyKVw: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=Y9rxeyzyKVw
+
+################################
+
+# Entry removed Tue Apr 23 22:21:20 2019
+# Reason: ERROR: DAsUNTHRjaM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=DAsUNTHRjaM
+
+################################
+
+# Entry removed Tue Apr 23 22:21:23 2019
+# Reason: ERROR: Xda_K7abC2I: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Xda_K7abC2I
+
+################################
+
+# Entry removed Tue Apr 23 22:21:26 2019
+# Reason: ERROR: EZ7zIrNMIH8: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=EZ7zIrNMIH8
+
+################################
+
+# Entry removed Tue Apr 23 22:21:29 2019
+# Reason: ERROR: 9opx_afte0I: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=9opx_afte0I
+
+################################
+
+# Entry removed Tue Apr 23 22:21:31 2019
+# Reason: ERROR: wGFpMPgSbB4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=wGFpMPgSbB4
+
+################################
+
+# Entry removed Tue Apr 23 22:21:34 2019
+# Reason: ERROR: _izt7vlJKM0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_izt7vlJKM0
+
+################################
+
+# Entry removed Tue Apr 23 22:21:36 2019
+# Reason: ERROR: lECJ2bu0Kv8: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=lECJ2bu0Kv8
+
+################################
+
+# Entry removed Tue Apr 23 22:21:38 2019
+# Reason: ERROR: XbZR9JhGJ0Q: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=XbZR9JhGJ0Q
+
+################################
+
+# Entry removed Tue Apr 23 22:21:41 2019
+# Reason: ERROR: C8jRc7LWxB0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=C8jRc7LWxB0
+
+################################
+
+# Entry removed Tue Apr 23 22:21:44 2019
+# Reason: ERROR: K65gJEsqegE: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=K65gJEsqegE
+
+################################
+
+# Entry removed Tue Apr 23 22:21:47 2019
+# Reason: ERROR: 6jd0VICL4og: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=6jd0VICL4og
+
+################################
+
+# Entry removed Tue Apr 23 22:21:49 2019
+# Reason: ERROR: Gqw62pN960U: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Gqw62pN960U
+
+################################
+
+# Entry removed Tue Apr 23 22:21:51 2019
+# Reason: ERROR: z269QQh7ano: YouTube said: This video contains content from SME, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=z269QQh7ano
+
+################################
+
+# Entry removed Tue Apr 23 22:21:54 2019
+# Reason: ERROR: 5UUwc0llyEk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=5UUwc0llyEk
+
+################################
+
+# Entry removed Tue Apr 23 22:21:57 2019
+# Reason: ERROR: oiG-4-V7Xd0: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=oiG-4-V7Xd0
+
+################################
+
+# Entry removed Tue Apr 23 22:21:59 2019
+# Reason: ERROR: cqkzoskWfww: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=cqkzoskWfww
+
+################################
+
+# Entry removed Tue Apr 23 22:22:01 2019
+# Reason: ERROR: V0tiM_RLXCs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=V0tiM_RLXCs
+
+################################
+
+# Entry removed Tue Apr 23 22:22:07 2019
+# Reason: ERROR: gUAWeM28wjQ: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=gUAWeM28wjQ
+
+################################
+
+# Entry removed Tue Apr 23 22:22:10 2019
+# Reason: ERROR: pKh_ZHexNZQ: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=pKh_ZHexNZQ
+
+################################
+
+# Entry removed Tue Apr 23 22:22:12 2019
+# Reason: ERROR: _J0ZpJMQjDo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=_J0ZpJMQjDo
+
+################################
+
+# Entry removed Tue Apr 23 22:22:16 2019
+# Reason: ERROR: sEX98pH5qIA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=sEX98pH5qIA
+
+################################
+
+# Entry removed Tue Apr 23 22:22:18 2019
+# Reason: ERROR: OMOGaugKpzs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=OMOGaugKpzs
+
+################################
+
+# Entry removed Tue Apr 23 22:22:21 2019
+# Reason: ERROR: YeLqgmVJk0Y: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=YeLqgmVJk0Y
+
+################################
+
+# Entry removed Tue Apr 23 22:22:24 2019
+# Reason: ERROR: djV11Xbc914: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=djV11Xbc914
+
+################################
+
+# Entry removed Tue Apr 23 22:22:26 2019
+# Reason: ERROR: PPapt88_3aU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=PPapt88_3aU
+
+################################
+
+# Entry removed Tue Apr 23 22:22:29 2019
+# Reason: ERROR: 55mbyhqIcNo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=55mbyhqIcNo
+
+################################
+
+# Entry removed Tue Apr 23 22:22:32 2019
+# Reason: ERROR: n5vdgTt9VPU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=n5vdgTt9VPU
+
+################################
+
+# Entry removed Tue Apr 23 22:22:36 2019
+# Reason: ERROR: 1AfNOKQdY-U: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=1AfNOKQdY-U
+
+################################
+
+# Entry removed Tue Apr 23 22:22:38 2019
+# Reason: ERROR: DECp8LKurKs: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=DECp8LKurKs
+
+################################
+
+# Entry removed Tue Apr 23 22:22:41 2019
+# Reason: ERROR: W985hWD5KYg: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=W985hWD5KYg
+
+################################
+
+# Entry removed Tue Apr 23 22:22:43 2019
+# Reason: ERROR: B7D0GKJDU3I: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=B7D0GKJDU3I
+
+################################
+
+# Entry removed Tue Apr 23 22:22:46 2019
+# Reason: ERROR: 8nBgXXHvKHU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=8nBgXXHvKHU
+
+################################
+
+# Entry removed Tue Apr 23 22:22:49 2019
+# Reason: ERROR: eYEgYVyBDuM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=eYEgYVyBDuM
+
+################################
+
+# Entry removed Tue Apr 23 22:22:52 2019
+# Reason: ERROR: I4KXMyb-aGY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=I4KXMyb-aGY
+
+################################
+
+# Entry removed Tue Apr 23 22:22:56 2019
+# Reason: ERROR: R7-hFVbDiIo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=R7-hFVbDiIo
+
+################################
+
+# Entry removed Tue Apr 23 22:22:59 2019
+# Reason: ERROR: Pkb7d1gdBoM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=Pkb7d1gdBoM
+
+################################
+
+# Entry removed Tue Apr 23 22:23:02 2019
+# Reason: ERROR: eiBinM-f-Pk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=eiBinM-f-Pk
+
+################################
+
+# Entry removed Tue Apr 23 22:23:05 2019
+# Reason: ERROR: YlXRq9-0alw: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=YlXRq9-0alw
+
+################################
+
+# Entry removed Tue Apr 23 22:23:07 2019
+# Reason: ERROR: KfFBdViZHzk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=KfFBdViZHzk
+
+################################
+
+# Entry removed Tue Apr 23 22:23:12 2019
+# Reason: ERROR: rrMueRMVsTM: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=rrMueRMVsTM
+
+################################
+
+# Entry removed Tue Apr 23 22:23:15 2019
+# Reason: ERROR: ZV1oQiRdoPc: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=ZV1oQiRdoPc
+
+################################
+
+# Entry removed Tue Apr 23 22:23:17 2019
+# Reason: ERROR: KGBXVsdY9hw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=KGBXVsdY9hw
+
+################################
+
+# Entry removed Tue Apr 23 22:23:20 2019
+# Reason: ERROR: vARpxoSM0kU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=vARpxoSM0kU
+
+################################
+
+# Entry removed Tue Apr 23 22:23:22 2019
+# Reason: ERROR: LjFSPklTE8w: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=LjFSPklTE8w
+
+################################
+
+# Entry removed Tue Apr 23 22:23:25 2019
+# Reason: ERROR: OyQVjGdJ60g: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=OyQVjGdJ60g
+
+################################
+
+# Entry removed Tue Apr 23 22:23:28 2019
+# Reason: ERROR: qWG2dsXV5HI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=qWG2dsXV5HI
+
+################################
+
+# Entry removed Tue Apr 23 22:23:30 2019
+# Reason: ERROR: in7CifqoM-M: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=in7CifqoM-M
+
+################################
+
+# Entry removed Tue Apr 23 22:23:33 2019
+# Reason: ERROR: mgE398yDoPA: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=mgE398yDoPA
+
+################################
+
+# Entry removed Tue Apr 23 22:23:36 2019
+# Reason: ERROR: BGBM5vWiBLo: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=BGBM5vWiBLo
+
+################################
+
+# Entry removed Tue Apr 23 22:23:38 2019
+# Reason: ERROR: slKNBP7VEvI: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=slKNBP7VEvI
+
+################################
+
+# Entry removed Tue Apr 23 22:23:41 2019
+# Reason: ERROR: 1DWD_hEz4HI: YouTube said: This video is unavailable.
+https://youtube.com/watch?v=1DWD_hEz4HI
+
+################################
+
+# Entry removed Tue Apr 23 22:23:43 2019
+# Reason: ERROR: AL4Tc7jLuK4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=AL4Tc7jLuK4
+
+################################
+
+# Entry removed Tue Apr 23 22:23:46 2019
+# Reason: ERROR: 336OIKnPA54: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=336OIKnPA54
+
+################################
+
+# Entry removed Tue Apr 23 22:23:49 2019
+# Reason: ERROR: K5jvUXij7nU: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=K5jvUXij7nU
+
+################################
+
+# Entry removed Tue Apr 23 22:23:52 2019
+# Reason: ERROR: 574LrnfW2_s: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=574LrnfW2_s
+
+################################
+
+# Entry removed Tue Apr 23 22:23:55 2019
+# Reason: ERROR: gRnWPnY1dgk: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=gRnWPnY1dgk
+
+################################
+
+# Entry removed Tue Apr 23 22:23:59 2019
+# Reason: ERROR: 9VPfprmtSF4: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=9VPfprmtSF4
+
+################################
+
+# Entry removed Tue Apr 23 22:24:02 2019
+# Reason: ERROR: jBmxH56XQBw: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=jBmxH56XQBw
+
+################################
+
+# Entry removed Tue Apr 23 22:24:05 2019
+# Reason: ERROR: 45pBJzi_YaY: "token" parameter not in video info for unknown reason
+https://youtube.com/watch?v=45pBJzi_YaY
+
+################################
+

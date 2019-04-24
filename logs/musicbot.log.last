@@ -1,0 +1,86 @@
+[177.891016006] 2019-04-23 22:11:14,591 - INFO - launcher: Starting sanity checks
+[178.889274597] 2019-04-23 22:11:14,592 - INFO - launcher: Checking for Python 3.5+
+[178.889274597] 2019-04-23 22:11:14,592 - INFO - launcher: Checking console encoding
+[178.889274597] 2019-04-23 22:11:14,592 - INFO - launcher: Setting console encoding to UTF-8
+[178.889274597] 2019-04-23 22:11:14,592 - INFO - launcher: Ensuring we're in the right environment
+[183.886766434] 2019-04-23 22:11:14,597 - INFO - launcher: Adding local bins/ folder to path
+[2911.297559738] 2019-04-23 22:11:17,325 - INFO - launcher: Required checks passed.
+[2912.296056747] 2019-04-23 22:11:17,326 - INFO - launcher: Optional checks passed.
+[2913.297176361] 2019-04-23 22:11:17,327 - INFO - launcher: Moving old musicbot log
+
+######################### PRE-RUN SANITY CHECKS PASSED #########################
+
+[8.5367350578308105] 2019-04-23 22:11:22,950 - WARNING - musicbot.config | In config.py::MainThread(53568), line 116 in run_checks: i18n file does not exist. Trying to fallback to config/i18n/en.json.
+[8.5377337932586670] 2019-04-23 22:11:22,951 - INFO - musicbot.config | In config.py::MainThread(53568), line 127 in run_checks: Using i18n: config/i18n/en.json
+[8.5437314510345459] 2019-04-23 22:11:22,957 - DEBUG - musicbot.bot | In bot.py::MainThread(53568), line 226 in _setup_logging: Set logging level to INFO
+[8.5487298965454102] 2019-04-23 22:11:22,962 - DEBUG - musicbot.json | In json.py::MainThread(53568), line 8 in __init__: Init JSON obj with config/i18n/en.json
+[8.6556615829467773] 2019-04-23 22:11:23,069 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 91 in __init__: Starting MusicBot 1.9.8_4
+[8.6706526279449463] 2019-04-23 22:11:23,084 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 97 in __init__: Loaded autoplaylist with 2116 entries
+[12.2167017459869385] 2019-04-23 22:11:26,630 - DEBUG - musicbot.bot | In bot.py::MainThread(53568), line 922 in on_ready: Connection established, ready to go.
+[12.2167017459869385] 2019-04-23 22:11:26,630 - DEBUG - musicbot.bot | In bot.py::MainThread(53568), line 340 in _cache_app_info: Caching app info
+[12.3086462020874023] 2019-04-23 22:11:26,722 - DEBUG - musicbot.bot | In bot.py::MainThread(53568), line 744 in _scheck_ensure_env: Ensuring data folders exist
+[12.3106439113616943] 2019-04-23 22:11:26,724 - DEBUG - musicbot.bot | In bot.py::MainThread(53568), line 760 in _scheck_server_permissions: Checking server permissions
+[12.3106439113616943] 2019-04-23 22:11:26,724 - DEBUG - musicbot.bot | In bot.py::MainThread(53568), line 764 in _scheck_autoplaylist: Auditing autoplaylist
+[12.3106439113616943] 2019-04-23 22:11:26,724 - DEBUG - musicbot.bot | In bot.py::MainThread(53568), line 768 in _scheck_configs: Validating config
+[12.3116452693939209] 2019-04-23 22:11:26,725 - DEBUG - musicbot.config | In config.py::MainThread(53568), line 217 in async_validate: Validating options...
+[12.3116452693939209] 2019-04-23 22:11:26,725 - DEBUG - musicbot.config | In config.py::MainThread(53568), line 231 in async_validate: Acquired owner id via API
+[12.3116452693939209] 2019-04-23 22:11:26,725 - DEBUG - musicbot.bot | In bot.py::MainThread(53568), line 771 in _scheck_configs: Validating permissions config
+[12.3116452693939209] 2019-04-23 22:11:26,725 - DEBUG - musicbot.permissions | In permissions.py::MainThread(53568), line 94 in async_validate: Validating permissions...
+[12.3116452693939209] 2019-04-23 22:11:26,725 - DEBUG - musicbot.permissions | In permissions.py::MainThread(53568), line 98 in async_validate: Fixing automatic owner group
+[12.3116452693939209] 2019-04-23 22:11:26,725 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 939 in on_ready: Connected: 570277320376713227/X-Bot#5162
+[12.3126432895660400] 2019-04-23 22:11:26,726 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 947 in on_ready: Owner:     520844929442775070/BioH4zardX#7547
+
+[12.3136427402496338] 2019-04-23 22:11:26,727 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 950 in on_ready: Guild List:
+[12.3136427402496338] 2019-04-23 22:11:26,727 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 954 in on_ready:  - X-Scripts Server
+[12.3146419525146484] 2019-04-23 22:11:26,728 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 1010 in on_ready: Not bound to any text channels
+[12.3146419525146484] 2019-04-23 22:11:26,728 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 1036 in on_ready: Not autojoining any voice channels
+[12.3166415691375732] 2019-04-23 22:11:26,730 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 270 in _join_startup_channels: Found owner in "owner call"
+[12.3166415691375732] 2019-04-23 22:11:26,730 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 279 in _join_startup_channels: Attempting to join X-Scripts Server/owner call
+[12.9402916431427002] 2019-04-23 22:11:27,354 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 295 in _join_startup_channels: Joined X-Scripts Server/owner call
+[12.9422833919525146] 2019-04-23 22:11:27,355 - DEBUG - musicbot.bot | In bot.py::MainThread(53568), line 511 in on_player_stop: Running on_player_stop
+[45.2127821445465088] 2019-04-23 22:11:59,626 - INFO - musicbot.bot | In bot.py::MainThread(53568), line 2648 in on_message: 520844929442775070/BioH4zardX#7547: ;play licking my sucking my
+[50.4663689136505127] 2019-04-23 22:12:04,880 - ERROR - musicbot.bot | In bot.py::MainThread(53568), line 2777 in on_message: Error in play: CommandError: ERROR: hcEN5C-OMDo: "token" parameter not in video info for unknown reason
+Traceback (most recent call last):
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 796, in extract_info
+    ie_result = ie.extract(url)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\extractor\common.py", line 529, in extract
+    ie_result = self._real_extract(url)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\extractor\youtube.py", line 1693, in _real_extract
+    video_id=video_id)
+youtube_dl.utils.ExtractorError: hcEN5C-OMDo: "token" parameter not in video info for unknown reason
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 1370, in cmd_play
+    info_process = await self.downloader.extract_info(player.playlist.loop, song_url, download=False)
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\downloader.py", line 84, in extract_info
+    return await loop.run_in_executor(self.thread_pool, functools.partial(self.unsafe_ytdl.extract_info, *args, **kwargs))
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\concurrent\futures\thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 807, in extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 868, in process_ie_result
+    extra_info=extra_info)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 807, in extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 1006, in process_ie_result
+    extra_info=extra)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 868, in process_ie_result
+    extra_info=extra_info)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 819, in extract_info
+    self.report_error(compat_str(e), e.format_traceback())
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 624, in report_error
+    self.trouble(error_message, tb)
+  File "C:\Users\monni\AppData\Local\Programs\Python\Python37\lib\site-packages\youtube_dl\YoutubeDL.py", line 594, in trouble
+    raise DownloadError(message, exc_info)
+youtube_dl.utils.DownloadError: ERROR: hcEN5C-OMDo: "token" parameter not in video info for unknown reason
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 2755, in on_message
+    response = await handler(**handler_kwargs)
+  File "C:\Users\monni\Desktop\seans stuff dont fuck with it\MusicBot\musicbot\bot.py", line 1389, in cmd_play
+    raise exceptions.CommandError(e, expire_in=30)
+musicbot.exceptions.CommandError: ERROR: hcEN5C-OMDo: "token" parameter not in video info for unknown reason
